@@ -12,7 +12,6 @@ body{
     display: flex;
     gap: 10px;
 }
-/* left */
 .left{
     padding-top: 10px;
     width: 22%;
@@ -43,12 +42,6 @@ body{
     display: flex;
     justify-content: flex-end;
 }
-
-
-
-
-
-/* right */
 .right{
     padding-top: 10px;
     width: 78%;
