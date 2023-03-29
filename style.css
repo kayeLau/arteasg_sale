@@ -1,8 +1,74 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
+body{
+    background-color: aliceblue;
+}
+.container{
+    padding: 10px;
+    width: 98%;
+    height: 95vh;
+    display: flex;
+    gap: 10px;
+}
+/* left */
+.left{
+    padding-top: 10px;
+    width: 22%;
+    height: 100%;
+}
+#shop-list{
+    list-style: none;
+    height: 100%;
+    overflow-y: scroll;
+}
+#shop-list > li{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 3px;
+    list-style: none;
+    border-bottom: 1px solid #D8D8D8;
+    display: flex;
+    justify-content: space-between;
+    text-transform: capitalize;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+    cursor: pointer;
+}
+#shop-list > li:hover{
+    background: linear-gradient(to top, #ffffff 0%,#EFEFEF 100%);
+}
+.sreach-input{
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
+/* right */
+.right{
+    padding-top: 10px;
+    width: 78%;
+}
 #chart{
-    width: 70vw;
-    aspect-ratio: 16 / 10;
+    width: 100%;
+    height: 100%;
+}
+.card{
+    width: 100%;
+    aspect-ratio: 16 / 4;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+#shop-title{
+    padding-bottom: 10px;
+}
+.detail-data{
+    display: flex;
+    padding: 15px;
+    gap:10
 }
