@@ -61,7 +61,8 @@ body{
     padding-bottom: 10px;
 }
 .detail-data{
+    font-weight: 600;
     display: flex;
     padding: 15px;
-    gap:10
+    gap:20px
 }

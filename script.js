@@ -2,21 +2,23 @@
 
 var myChart = echarts.init(document.getElementById('chart'));
 let shopCups = document.querySelector('#shop-cups')
+let shopOrders = document.querySelector('#shop-orders')
+let avgOrder = document.querySelector('#avg-order')
 let datas = []
-let shopList = []
 let lastTarget = null
 let currentId = ''
+let currentShopId = '600535382'
+let currentShopName = 'ARTEASG（广州市天河区棠东店）'
 init()
 setEventLister()
 
 async function init(datekey) {
-  console.log(datekey)
   await getData(datekey)
   setShopList(datas)
   refreshData()
 }
 
-async function getData(datekey = '0324') {
+async function getData(datekey = '0329') {
   await fetch(`./data/广州ARTEASG各分店销售情况${datekey}.json`).then(res => {
     return res.json()
   }).then(res => {
@@ -26,11 +28,18 @@ async function getData(datekey = '0324') {
   })
 }
 
+function getCurrentDatekey() {
+  let date = new Date()
+  return fillZero(date.getMonth() + 1) + fillZero(date.getDate())
+}
+
 function filterData(id) {
   return datas.filter(item => item.id === id)
 }
 
-function refreshData(id = "600535382",name = 'ARTEASG（广州市天河区棠东店）'){
+function refreshData(id = currentShopId, name = currentShopName) {
+  currentShopId = id
+  currentShopName = name
   document.querySelector('#shop-title').innerHTML = name
   let data = filterData(id)
   let options = getFullOptions(data)
@@ -86,28 +95,35 @@ function getShopData(data) {
   let shopList = []
   data.forEach(item => {
     if (!shopMap[item.name]) {
-      shopMap[item.name] = []
-      shopMap[item.name][0] = item.cups || 0
-      shopMap[item.name][1] = item.cups || 0
-      shopMap[item.name][2] = item.id
+      shopMap[item.name] = {
+        totalCups:item.cups || 0,
+        lastCups:item.cups || 0,
+        id:item.id,
+        totalOrders:item.orders || 0,
+        lastOrders:item.orders || 0
+      }
     } else {
-      let res = item.cups > shopMap[item.name][1] ? item.cups - shopMap[item.name][1] : item.cups !== 0 && item.cups === shopMap[item.name][1] ? 2 : 0
-      shopMap[item.name][0] += res
-      shopMap[item.name][1] = item.cups
+      let res_cup = item.cups > shopMap[item.name].lastCups ? item.cups - shopMap[item.name].lastCups : item.cups !== 0 && item.cups === shopMap[item.name].lastCups ? 2 : 0;
+      let res_order = item.orders > shopMap[item.name].lastOrders ? item.orders - shopMap[item.name].lastOrders : 0;
+      shopMap[item.name].totalCups += res_cup
+      shopMap[item.name].totalOrders += res_order
+      shopMap[item.name].lastCups = item.cups
+      shopMap[item.name].lastOrders = item.orders
     }
   })
   for (let item of Object.keys(shopMap)) {
     shopList.push({
       name: item,
-      value: shopMap[item][0],
-      id: shopMap[item][2]
+      totalCups: shopMap[item].totalCups,
+      totalOrders:shopMap[item].totalOrders,
+      id: shopMap[item].id,
     })
   }
   return shopList
 }
 function setShopList(data) {
   let shopList = getShopData(data)
-  shopList.sort((a, b) => b.value - a.value)
+  shopList.sort((a, b) => b.totalCups - a.totalCups)
   let shopListDom = document.querySelector('#shop-list')
   shopListDom.innerHTML = ''
   const fragment = new DocumentFragment();
@@ -116,10 +132,11 @@ function setShopList(data) {
     const key = document.createElement('span')
     const value = document.createElement('span')
     key.textContent = item.name.replace('ARTEASG', '');
-    value.textContent = item.value;
+    value.textContent = item.totalCups;
     li.dataset.shopid = item.id
     li.dataset.shopName = item.name
-    li.dataset.shopCups = item.value
+    li.dataset.shopCups = item.totalCups
+    li.dataset.shopOrders = item.totalOrders
     li.append(key)
     li.append(value)
     fragment.append(li);
@@ -128,18 +145,35 @@ function setShopList(data) {
 
   let shopitems = document.querySelectorAll('#shop-list > li')
   shopitems.forEach(item => {
+    if (item.dataset.shopid === currentShopId) {
+      findNUpdate(item)
+    }
+  })
+
+  shopitems.forEach(item => {
     item.addEventListener('click', (e) => {
-      if(lastTarget){
+      if (lastTarget) {
         lastTarget.style.color = '#00000'
         lastTarget.style.fontWeight = '400'
       }
-      shopCups.innerHTML = e.currentTarget.dataset.shopCups + '杯'
-      refreshData(e.currentTarget.dataset.shopid,e.currentTarget.dataset.shopName)
-      e.currentTarget.style.color = '#106EBE'
-      e.currentTarget.style.fontWeight = '600'
+      findNUpdate(e.currentTarget)
+      refreshData(e.currentTarget.dataset.shopid, e.currentTarget.dataset.shopName)
+      // shopCups.innerHTML = e.currentTarget.dataset.shopCups + '杯'
+      // e.currentTarget.style.color = '#106EBE'
+      // e.currentTarget.style.fontWeight = '600'
       lastTarget = e.currentTarget
     })
   })
+}
+
+function findNUpdate(shopitem) {
+  let shopCupsValue = shopitem.dataset.shopCups
+  let shopOrdersValue = shopitem.dataset.shopOrders
+  shopCups.innerHTML = shopCupsValue + '杯'
+  shopOrders.innerHTML = shopOrdersValue + '单'
+  avgOrder.innerHTML = (shopCupsValue / shopOrdersValue).toFixed(2) + '杯'
+  shopitem.style.color = '#106EBE'
+  shopitem.style.fontWeight = '600'
 }
 
 function setEventLister() {
