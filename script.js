@@ -10,6 +10,7 @@ init()
 setEventLister()
 
 async function init(datekey) {
+  console.log(datekey)
   await getData(datekey)
   setShopList(datas)
   refreshData()
