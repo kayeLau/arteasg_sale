@@ -1,28 +1,39 @@
 // import data from './广州ARTEASG各分店销售情况0323.json' assert { type: 'JSON' };
 
-var myChart = echarts.init(document.getElementById('chart'));
+var timeSaleChart = echarts.init(document.getElementById('chart'));
+var dateSaleChart = echarts.init(document.getElementById('date-sale-chart'));
+let dateSaleChartFilterList = ['600535382']
 let shopCups = document.querySelector('#shop-cups')
 let shopOrders = document.querySelector('#shop-orders')
 let avgOrder = document.querySelector('#avg-order')
-let datas = []
+let timeDatas = []
+let dateDatas = []
 let lastTarget = null
 let currentId = ''
 let currentShopId = '600535382'
 let currentShopName = 'ARTEASG（广州市天河区棠东店）'
+
 init()
 setEventLister()
 
 async function init(datekey) {
   await getData(datekey)
-  setShopList(datas)
+  setShopList(timeDatas)
   refreshData()
 }
 
-async function getData(datekey = '0329') {
+async function getData(datekey = '0401') {
   await fetch(`./data/广州ARTEASG各分店销售情况${datekey}.json`).then(res => {
     return res.json()
   }).then(res => {
-    datas = res
+    timeDatas = res
+  }).catch(err => {
+    console.error(err)
+  })
+  await fetch(`./data/广州ARTEASG各分店销售情况日度.json`).then(res => {
+    return res.json()
+  }).then(res => {
+    dateDatas = res
   }).catch(err => {
     console.error(err)
   })
@@ -34,16 +45,27 @@ function getCurrentDatekey() {
 }
 
 function filterData(id) {
-  return datas.filter(item => item.id === id)
+  return timeDatas.filter(item => item.id === id)
 }
 
 function refreshData(id = currentShopId, name = currentShopName) {
   currentShopId = id
   currentShopName = name
+  dateSaleChartFilterList = [currentShopId]
   document.querySelector('#shop-title').innerHTML = name
   let data = filterData(id)
+  setTimeSaleChartOptions(data)
+  setDateSaleChartOptions(dateDatas)
+}
+
+function setTimeSaleChartOptions(data){
   let options = getFullOptions(data)
-  myChart.setOption(options);
+  timeSaleChart.setOption(options);
+}
+
+function setDateSaleChartOptions(data){
+  let options = getFullOptions2(data)
+  dateSaleChart.setOption(options);
 }
 
 // 指定图表的配置项和数据
@@ -68,7 +90,7 @@ function getFullOptions(data) {
     },
     xAxis: {
       type: 'category',
-      data: xData
+      data: xData.map(item => item.split(' ')[1])
     },
     yAxis: {
       type: 'value'
@@ -89,31 +111,72 @@ function getFullOptions(data) {
     ]
   };
 }
+// 指定图表的配置项和数据
+function getFullOptions2(data){
+  let xData = []
+  let dataMap = {}
+  data.forEach(day => {
+    xData.push(day['600535382'].time)
+    dateSaleChartFilterList.forEach(shopId => {
+      if(!dataMap[shopId]){
+        dataMap[shopId] = {
+          data:[day[shopId].totalCups],
+          name:day[shopId].name,
+          type: 'line',
+          smooth: true
+        }
+      }else{
+        dataMap[shopId].data.push(day[shopId].totalCups)
+      }
+    })
+  })
+  
+  return {
+    tooltip: {
+      trigger: 'axis',
+    },
+    grid: {
+      left: '8%',
+      top: '5%',
+      bottom: '8%',
+      right: '5%',
+    },
+    xAxis: {
+      type: 'category',
+      data: xData
+    },
+    yAxis: {
+      type: 'value'
+    },
+    series: Object.values(dataMap)
+  };
+}
 
 function getShopData(data) {
   let shopMap = {}
   let shopList = []
   data.forEach(item => {
-    if (!shopMap[item.name]) {
-      shopMap[item.name] = {
+    if (!shopMap[item.id]) {
+      shopMap[item.id] = {
         totalCups:item.cups || 0,
         lastCups:item.cups || 0,
         id:item.id,
+        name:item.name,
         totalOrders:item.orders || 0,
         lastOrders:item.orders || 0
       }
     } else {
-      let res_cup = item.cups > shopMap[item.name].lastCups ? item.cups - shopMap[item.name].lastCups : item.cups !== 0 && item.cups === shopMap[item.name].lastCups ? 2 : 0;
-      let res_order = item.orders > shopMap[item.name].lastOrders ? item.orders - shopMap[item.name].lastOrders : 0;
-      shopMap[item.name].totalCups += res_cup
-      shopMap[item.name].totalOrders += res_order
-      shopMap[item.name].lastCups = item.cups
-      shopMap[item.name].lastOrders = item.orders
+      let res_cup = item.cups > shopMap[item.id].lastCups ? item.cups - shopMap[item.id].lastCups : item.cups !== 0 && item.cups === shopMap[item.id].lastCups ? 2 : 0;
+      let res_order = item.orders > shopMap[item.id].lastOrders ? item.orders - shopMap[item.id].lastOrders : 0;
+      shopMap[item.id].totalCups += res_cup
+      shopMap[item.id].totalOrders += res_order
+      shopMap[item.id].lastCups = item.cups
+      shopMap[item.id].lastOrders = item.orders
     }
   })
   for (let item of Object.keys(shopMap)) {
     shopList.push({
-      name: item,
+      name: shopMap[item].name,
       totalCups: shopMap[item].totalCups,
       totalOrders:shopMap[item].totalOrders,
       id: shopMap[item].id,
@@ -147,20 +210,18 @@ function setShopList(data) {
   shopitems.forEach(item => {
     if (item.dataset.shopid === currentShopId) {
       findNUpdate(item)
+      lastTarget = item
     }
   })
 
   shopitems.forEach(item => {
     item.addEventListener('click', (e) => {
       if (lastTarget) {
-        lastTarget.style.color = '#00000'
+        lastTarget.style.color = '#000000'
         lastTarget.style.fontWeight = '400'
       }
       findNUpdate(e.currentTarget)
       refreshData(e.currentTarget.dataset.shopid, e.currentTarget.dataset.shopName)
-      // shopCups.innerHTML = e.currentTarget.dataset.shopCups + '杯'
-      // e.currentTarget.style.color = '#106EBE'
-      // e.currentTarget.style.fontWeight = '600'
       lastTarget = e.currentTarget
     })
   })
@@ -173,7 +234,7 @@ function findNUpdate(shopitem) {
   shopOrders.innerHTML = shopOrdersValue + '单'
   avgOrder.innerHTML = (shopCupsValue / shopOrdersValue).toFixed(2) + '杯'
   shopitem.style.color = '#106EBE'
-  shopitem.style.fontWeight = '600'
+  shopitem.style.fontWeight = '700'
 }
 
 function setEventLister() {

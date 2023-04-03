@@ -1,0 +1,5726 @@
+[
+  {
+    "600514754": {
+      "time": "2023/03/23",
+      "totalCups": 555,
+      "lastCups": 40,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 151,
+      "lastOrders": 25
+    },
+    "600515728": {
+      "time": "2023/03/23",
+      "totalCups": 49,
+      "lastCups": 23,
+      "id": "600515728",
+      "name": "ARTEASG（广州市白云区嘉禾金铂天地店）",
+      "totalOrders": 25,
+      "lastOrders": 13
+    },
+    "600515769": {
+      "time": "2023/03/23",
+      "totalCups": 308,
+      "lastCups": 0,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 109,
+      "lastOrders": 0
+    },
+    "600516719": {
+      "time": "2023/03/23",
+      "totalCups": 382,
+      "lastCups": 0,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 126,
+      "lastOrders": 0
+    },
+    "600517735": {
+      "time": "2023/03/23",
+      "totalCups": 158,
+      "lastCups": 0,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 52,
+      "lastOrders": 0
+    },
+    "600519445": {
+      "time": "2023/03/23",
+      "totalCups": 286,
+      "lastCups": 27,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 110,
+      "lastOrders": 20
+    },
+    "600519453": {
+      "time": "2023/03/23",
+      "totalCups": 16,
+      "lastCups": 0,
+      "id": "600519453",
+      "name": "ARTEASG（广州市白云区岭南新世界店）",
+      "totalOrders": 10,
+      "lastOrders": null
+    },
+    "600519705": {
+      "time": "2023/03/23",
+      "totalCups": 135,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 42,
+      "lastOrders": 0
+    },
+    "600520656": {
+      "time": "2023/03/23",
+      "totalCups": 25,
+      "lastCups": 2,
+      "id": "600520656",
+      "name": "ARTEASG（广州市黄埔区锐丰中心店）",
+      "totalOrders": 3,
+      "lastOrders": 1
+    },
+    "600520674": {
+      "time": "2023/03/23",
+      "totalCups": 137,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 13,
+      "lastOrders": 0
+    },
+    "600520695": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600520695",
+      "name": "ARTEASG（广州市番禺区汀沙市场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/03/23",
+      "totalCups": 104,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 20,
+      "lastOrders": 0
+    },
+    "600520972": {
+      "time": "2023/03/23",
+      "totalCups": 43,
+      "lastCups": 27,
+      "id": "600520972",
+      "name": "ARTEASG（广州市番禺区亚运城国际商业街店）",
+      "totalOrders": 25,
+      "lastOrders": 19
+    },
+    "600520978": {
+      "time": "2023/03/23",
+      "totalCups": 263,
+      "lastCups": 0,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 89,
+      "lastOrders": 0
+    },
+    "600521700": {
+      "time": "2023/03/23",
+      "totalCups": 107,
+      "lastCups": 8,
+      "id": "600521700",
+      "name": "ARTEASG（广州市番禺区万民城 MO CITY店）",
+      "totalOrders": 11,
+      "lastOrders": 4
+    },
+    "600522702": {
+      "time": "2023/03/23",
+      "totalCups": 469,
+      "lastCups": 0,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 170,
+      "lastOrders": 0
+    },
+    "600522744": {
+      "time": "2023/03/23",
+      "totalCups": 328,
+      "lastCups": 26,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 59,
+      "lastOrders": 15
+    },
+    "600523648": {
+      "time": "2023/03/23",
+      "totalCups": 351,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 114,
+      "lastOrders": 0
+    },
+    "600523696": {
+      "time": "2023/03/23",
+      "totalCups": 393,
+      "lastCups": 0,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 121,
+      "lastOrders": 0
+    },
+    "600523699": {
+      "time": "2023/03/23",
+      "totalCups": 326,
+      "lastCups": 0,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 111,
+      "lastOrders": 0
+    },
+    "600524637": {
+      "time": "2023/03/23",
+      "totalCups": 178,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 47,
+      "lastOrders": 0
+    },
+    "600524647": {
+      "time": "2023/03/23",
+      "totalCups": 281,
+      "lastCups": 0,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 98,
+      "lastOrders": 0
+    },
+    "600524676": {
+      "time": "2023/03/23",
+      "totalCups": 225,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 84,
+      "lastOrders": 0
+    },
+    "600525598": {
+      "time": "2023/03/23",
+      "totalCups": 279,
+      "lastCups": 0,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 94,
+      "lastOrders": 0
+    },
+    "600525678": {
+      "time": "2023/03/23",
+      "totalCups": 134,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 34,
+      "lastOrders": 0
+    },
+    "600526535": {
+      "time": "2023/03/23",
+      "totalCups": 21,
+      "lastCups": 11,
+      "id": "600526535",
+      "name": "ARTEASG（广州市从化区江埔街欣荣宏商业街店）",
+      "totalOrders": 6,
+      "lastOrders": 6
+    },
+    "600526537": {
+      "time": "2023/03/23",
+      "totalCups": 324,
+      "lastCups": 0,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 108,
+      "lastOrders": 0
+    },
+    "600526578": {
+      "time": "2023/03/23",
+      "totalCups": 334,
+      "lastCups": 37,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 133,
+      "lastOrders": 23
+    },
+    "600526611": {
+      "time": "2023/03/23",
+      "totalCups": 456,
+      "lastCups": 0,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 167,
+      "lastOrders": 0
+    },
+    "600526660": {
+      "time": "2023/03/23",
+      "totalCups": 201,
+      "lastCups": 0,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 67,
+      "lastOrders": 0
+    },
+    "600529806": {
+      "time": "2023/03/23",
+      "totalCups": 548,
+      "lastCups": 0,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 174,
+      "lastOrders": 0
+    },
+    "600529807": {
+      "time": "2023/03/23",
+      "totalCups": 458,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 132,
+      "lastOrders": 0
+    },
+    "600529811": {
+      "time": "2023/03/23",
+      "totalCups": 14,
+      "lastCups": 12,
+      "id": "600529811",
+      "name": "ARTEASG（广州市增城区新塘镇金海岸城市广场店）",
+      "totalOrders": 6,
+      "lastOrders": 6
+    },
+    "600529850": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600530129": {
+      "time": "2023/03/23",
+      "totalCups": 372,
+      "lastCups": 0,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 133,
+      "lastOrders": 0
+    },
+    "600534328": {
+      "time": "2023/03/23",
+      "totalCups": 191,
+      "lastCups": 0,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 52,
+      "lastOrders": 0
+    },
+    "600534576": {
+      "time": "2023/03/23",
+      "totalCups": 162,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 66,
+      "lastOrders": 0
+    },
+    "600535382": {
+      "time": "2023/03/23",
+      "totalCups": 598,
+      "lastCups": 0,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 130,
+      "lastOrders": 0
+    },
+    "600535674": {
+      "time": "2023/03/23",
+      "totalCups": 305,
+      "lastCups": 0,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 115,
+      "lastOrders": null
+    },
+    "600537161": {
+      "time": "2023/03/23",
+      "totalCups": 296,
+      "lastCups": 0,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 116,
+      "lastOrders": 0
+    },
+    "600537173": {
+      "time": "2023/03/23",
+      "totalCups": 201,
+      "lastCups": 0,
+      "id": "600537173",
+      "totalOrders": 92,
+      "lastOrders": 0
+    },
+    "600537199": {
+      "time": "2023/03/23",
+      "totalCups": 327,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 125,
+      "lastOrders": 0
+    },
+    "600537224": {
+      "time": "2023/03/23",
+      "totalCups": 284,
+      "lastCups": 0,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 126,
+      "lastOrders": 0
+    },
+    "600539699": {
+      "time": "2023/03/23",
+      "totalCups": 188,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 88,
+      "lastOrders": 0
+    },
+    "600540081": {
+      "time": "2023/03/23",
+      "totalCups": 331,
+      "lastCups": 0,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 143,
+      "lastOrders": 0
+    },
+    "600541181": {
+      "time": "2023/03/23",
+      "totalCups": 212,
+      "lastCups": 0,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 93,
+      "lastOrders": null
+    },
+    "600542085": {
+      "time": "2023/03/23",
+      "totalCups": 202,
+      "lastCups": 0,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 38,
+      "lastOrders": null
+    },
+    "600542137": {
+      "time": "2023/03/23",
+      "totalCups": 336,
+      "lastCups": 0,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 108,
+      "lastOrders": 0
+    },
+    "600543025": {
+      "time": "2023/03/23",
+      "totalCups": 206,
+      "lastCups": 0,
+      "id": "600543025",
+      "totalOrders": 62,
+      "lastOrders": 0
+    },
+    "600543103": {
+      "time": "2023/03/23",
+      "totalCups": 517,
+      "lastCups": 0,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 180,
+      "lastOrders": 0
+    },
+    "600543109": {
+      "time": "2023/03/23",
+      "totalCups": 162,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 61,
+      "lastOrders": 0
+    },
+    "600543417": {
+      "time": "2023/03/23",
+      "totalCups": 380,
+      "lastCups": 0,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 147,
+      "lastOrders": 0
+    },
+    "600544129": {
+      "time": "2023/03/23",
+      "totalCups": 485,
+      "lastCups": 0,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 200,
+      "lastOrders": 0
+    },
+    "600549020": {
+      "time": "2023/03/23",
+      "totalCups": 159,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 44,
+      "lastOrders": 0
+    },
+    "600577623": {
+      "time": "2023/03/23",
+      "totalCups": 38,
+      "lastCups": 34,
+      "id": "600577623",
+      "name": "ARTEASG（广州市花都区狮岭镇教育东路店）",
+      "totalOrders": 18,
+      "lastOrders": 18
+    },
+    "600583122": {
+      "time": "2023/03/23",
+      "totalCups": 208,
+      "lastCups": 0,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 73,
+      "lastOrders": 0
+    },
+    "600630507": {
+      "time": "2023/03/23",
+      "totalCups": 172,
+      "lastCups": 0,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 56,
+      "lastOrders": 0
+    },
+    "600635227": {
+      "time": "2023/03/23",
+      "totalCups": 245,
+      "lastCups": 0,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 85,
+      "lastOrders": 0
+    },
+    "600679083": {
+      "time": "2023/03/23",
+      "totalCups": 17,
+      "lastCups": 7,
+      "id": "600679083",
+      "name": "ARTEASG（广州市番禺区祈福缤纷世界店）",
+      "totalOrders": 8,
+      "lastOrders": 4
+    },
+    "600684267": {
+      "time": "2023/03/23",
+      "totalCups": 277,
+      "lastCups": 0,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 108,
+      "lastOrders": 0
+    },
+    "600684297": {
+      "time": "2023/03/23",
+      "totalCups": 234,
+      "lastCups": 2,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 86,
+      "lastOrders": 2
+    },
+    "600690714": {
+      "time": "2023/03/23",
+      "totalCups": 360,
+      "lastCups": 0,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 142,
+      "lastOrders": 0
+    },
+    "600693069": {
+      "time": "2023/03/23",
+      "totalCups": 343,
+      "lastCups": 0,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 137,
+      "lastOrders": 0
+    },
+    "600695245": {
+      "time": "2023/03/23",
+      "totalCups": 190,
+      "lastCups": 0,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 64,
+      "lastOrders": 0
+    },
+    "600703629": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600703882": {
+      "time": "2023/03/23",
+      "totalCups": 168,
+      "lastCups": 0,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 53,
+      "lastOrders": 0
+    },
+    "600714044": {
+      "time": "2023/03/23",
+      "totalCups": 201,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 79,
+      "lastOrders": 0
+    },
+    "600721359": {
+      "time": "2023/03/23",
+      "totalCups": 11,
+      "lastCups": 1,
+      "id": "600721359",
+      "name": "ARTEASG（广州市番禺区奥园广场店）",
+      "totalOrders": 5,
+      "lastOrders": 1
+    },
+    "600722551": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600731355": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600731355",
+      "name": "ARTEASG（广州市番禺区永旺梦乐城店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600757118": {
+      "time": "2023/03/23",
+      "totalCups": 191,
+      "lastCups": 0,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 74,
+      "lastOrders": 0
+    },
+    "600906223": {
+      "time": "2023/03/23",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/24",
+      "totalCups": 388,
+      "lastCups": 0,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 128,
+      "lastOrders": 0
+    },
+    "600515728": {
+      "time": "2023/03/24",
+      "totalCups": 26,
+      "lastCups": 0,
+      "id": "600515728",
+      "name": "ARTEASG（广州市白云区嘉禾金铂天地店）",
+      "totalOrders": 13,
+      "lastOrders": null
+    },
+    "600515769": {
+      "time": "2023/03/24",
+      "totalCups": 321,
+      "lastCups": 0,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 65,
+      "lastOrders": 0
+    },
+    "600516719": {
+      "time": "2023/03/24",
+      "totalCups": 474,
+      "lastCups": 0,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 120,
+      "lastOrders": 0
+    },
+    "600517735": {
+      "time": "2023/03/24",
+      "totalCups": 198,
+      "lastCups": 0,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 76,
+      "lastOrders": 0
+    },
+    "600519445": {
+      "time": "2023/03/24",
+      "totalCups": 204,
+      "lastCups": 0,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 58,
+      "lastOrders": 0
+    },
+    "600519453": {
+      "time": "2023/03/24",
+      "totalCups": 26,
+      "lastCups": 2,
+      "id": "600519453",
+      "name": "ARTEASG（广州市白云区岭南新世界店）",
+      "totalOrders": 12,
+      "lastOrders": 2
+    },
+    "600519705": {
+      "time": "2023/03/24",
+      "totalCups": 190,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 32,
+      "lastOrders": 0
+    },
+    "600520656": {
+      "time": "2023/03/24",
+      "totalCups": 55,
+      "lastCups": 49,
+      "id": "600520656",
+      "name": "ARTEASG（广州市黄埔区锐丰中心店）",
+      "totalOrders": 31,
+      "lastOrders": 31
+    },
+    "600520674": {
+      "time": "2023/03/24",
+      "totalCups": 47,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 14,
+      "lastOrders": 0
+    },
+    "600520695": {
+      "time": "2023/03/24",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600520695",
+      "name": "ARTEASG（广州市番禺区汀沙市场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/03/24",
+      "totalCups": 105,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 23,
+      "lastOrders": 0
+    },
+    "600520972": {
+      "time": "2023/03/24",
+      "totalCups": 36,
+      "lastCups": 26,
+      "id": "600520972",
+      "name": "ARTEASG（广州市番禺区亚运城国际商业街店）",
+      "totalOrders": 16,
+      "lastOrders": 16
+    },
+    "600520978": {
+      "time": "2023/03/24",
+      "totalCups": 251,
+      "lastCups": 0,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 76,
+      "lastOrders": 0
+    },
+    "600521700": {
+      "time": "2023/03/24",
+      "totalCups": 28,
+      "lastCups": 14,
+      "id": "600521700",
+      "name": "ARTEASG（广州市番禺区万民城 MO CITY店）",
+      "totalOrders": 8,
+      "lastOrders": 8
+    },
+    "600522702": {
+      "time": "2023/03/24",
+      "totalCups": 500,
+      "lastCups": 0,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 184,
+      "lastOrders": 0
+    },
+    "600522744": {
+      "time": "2023/03/24",
+      "totalCups": 189,
+      "lastCups": 33,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 51,
+      "lastOrders": 21
+    },
+    "600523648": {
+      "time": "2023/03/24",
+      "totalCups": 284,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 110,
+      "lastOrders": 0
+    },
+    "600523696": {
+      "time": "2023/03/24",
+      "totalCups": 306,
+      "lastCups": 0,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 107,
+      "lastOrders": 0
+    },
+    "600523699": {
+      "time": "2023/03/24",
+      "totalCups": 269,
+      "lastCups": 0,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 72,
+      "lastOrders": 0
+    },
+    "600524637": {
+      "time": "2023/03/24",
+      "totalCups": 108,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600524647": {
+      "time": "2023/03/24",
+      "totalCups": 186,
+      "lastCups": 0,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 75,
+      "lastOrders": 0
+    },
+    "600524676": {
+      "time": "2023/03/24",
+      "totalCups": 161,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 68,
+      "lastOrders": 0
+    },
+    "600525598": {
+      "time": "2023/03/24",
+      "totalCups": 329,
+      "lastCups": 0,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 106,
+      "lastOrders": 0
+    },
+    "600525678": {
+      "time": "2023/03/24",
+      "totalCups": 81,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 35,
+      "lastOrders": 0
+    },
+    "600526535": {
+      "time": "2023/03/24",
+      "totalCups": 11,
+      "lastCups": 11,
+      "id": "600526535",
+      "name": "ARTEASG（广州市从化区江埔街欣荣宏商业街店）",
+      "totalOrders": 7,
+      "lastOrders": 7
+    },
+    "600526537": {
+      "time": "2023/03/24",
+      "totalCups": 247,
+      "lastCups": 0,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 82,
+      "lastOrders": 0
+    },
+    "600526578": {
+      "time": "2023/03/24",
+      "totalCups": 272,
+      "lastCups": 0,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 87,
+      "lastOrders": 0
+    },
+    "600526611": {
+      "time": "2023/03/24",
+      "totalCups": 336,
+      "lastCups": 0,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 139,
+      "lastOrders": 0
+    },
+    "600526660": {
+      "time": "2023/03/24",
+      "totalCups": 228,
+      "lastCups": 0,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 72,
+      "lastOrders": 0
+    },
+    "600529806": {
+      "time": "2023/03/24",
+      "totalCups": 583,
+      "lastCups": 0,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 175,
+      "lastOrders": 0
+    },
+    "600529807": {
+      "time": "2023/03/24",
+      "totalCups": 408,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 134,
+      "lastOrders": 0
+    },
+    "600529811": {
+      "time": "2023/03/24",
+      "totalCups": 5,
+      "lastCups": 5,
+      "id": "600529811",
+      "name": "ARTEASG（广州市增城区新塘镇金海岸城市广场店）",
+      "totalOrders": 3,
+      "lastOrders": 3
+    },
+    "600529850": {
+      "time": "2023/03/24",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600530129": {
+      "time": "2023/03/24",
+      "totalCups": 290,
+      "lastCups": 0,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 89,
+      "lastOrders": 0
+    },
+    "600534328": {
+      "time": "2023/03/24",
+      "totalCups": 257,
+      "lastCups": 0,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 76,
+      "lastOrders": 0
+    },
+    "600534576": {
+      "time": "2023/03/24",
+      "totalCups": 137,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 60,
+      "lastOrders": 0
+    },
+    "600535382": {
+      "time": "2023/03/24",
+      "totalCups": 330,
+      "lastCups": 0,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 110,
+      "lastOrders": 0
+    },
+    "600535674": {
+      "time": "2023/03/24",
+      "totalCups": 231,
+      "lastCups": 0,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 80,
+      "lastOrders": 0
+    },
+    "600537161": {
+      "time": "2023/03/24",
+      "totalCups": 233,
+      "lastCups": 0,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 84,
+      "lastOrders": 0
+    },
+    "600537173": {
+      "time": "2023/03/24",
+      "totalCups": 204,
+      "lastCups": 0,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 69,
+      "lastOrders": 0
+    },
+    "600537199": {
+      "time": "2023/03/24",
+      "totalCups": 264,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 86,
+      "lastOrders": 0
+    },
+    "600537224": {
+      "time": "2023/03/24",
+      "totalCups": 297,
+      "lastCups": 0,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 115,
+      "lastOrders": 0
+    },
+    "600539699": {
+      "time": "2023/03/24",
+      "totalCups": 290,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 107,
+      "lastOrders": 0
+    },
+    "600540081": {
+      "time": "2023/03/24",
+      "totalCups": 358,
+      "lastCups": 0,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 104,
+      "lastOrders": 0
+    },
+    "600541181": {
+      "time": "2023/03/24",
+      "totalCups": 220,
+      "lastCups": 0,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 78,
+      "lastOrders": 0
+    },
+    "600542085": {
+      "time": "2023/03/24",
+      "totalCups": 90,
+      "lastCups": 12,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 20,
+      "lastOrders": 7
+    },
+    "600542137": {
+      "time": "2023/03/24",
+      "totalCups": 348,
+      "lastCups": 0,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 141,
+      "lastOrders": 0
+    },
+    "600543025": {
+      "time": "2023/03/24",
+      "totalCups": 181,
+      "lastCups": 0,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 45,
+      "lastOrders": 0
+    },
+    "600543103": {
+      "time": "2023/03/24",
+      "totalCups": 323,
+      "lastCups": 0,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 143,
+      "lastOrders": 0
+    },
+    "600543109": {
+      "time": "2023/03/24",
+      "totalCups": 116,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 47,
+      "lastOrders": 0
+    },
+    "600543417": {
+      "time": "2023/03/24",
+      "totalCups": 372,
+      "lastCups": 0,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 142,
+      "lastOrders": 0
+    },
+    "600544129": {
+      "time": "2023/03/24",
+      "totalCups": 460,
+      "lastCups": 0,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 198,
+      "lastOrders": 0
+    },
+    "600549020": {
+      "time": "2023/03/24",
+      "totalCups": 116,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 35,
+      "lastOrders": 0
+    },
+    "600577623": {
+      "time": "2023/03/24",
+      "totalCups": 30,
+      "lastCups": 24,
+      "id": "600577623",
+      "name": "ARTEASG（广州市花都区狮岭镇教育东路店）",
+      "totalOrders": 14,
+      "lastOrders": 14
+    },
+    "600583122": {
+      "time": "2023/03/24",
+      "totalCups": 210,
+      "lastCups": 0,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 62,
+      "lastOrders": 0
+    },
+    "600630507": {
+      "time": "2023/03/24",
+      "totalCups": 147,
+      "lastCups": 0,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 43,
+      "lastOrders": 0
+    },
+    "600635227": {
+      "time": "2023/03/24",
+      "totalCups": 344,
+      "lastCups": 0,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 99,
+      "lastOrders": 0
+    },
+    "600679083": {
+      "time": "2023/03/24",
+      "totalCups": 16,
+      "lastCups": 8,
+      "id": "600679083",
+      "name": "ARTEASG（广州市番禺区祈福缤纷世界店）",
+      "totalOrders": 7,
+      "lastOrders": 4
+    },
+    "600684267": {
+      "time": "2023/03/24",
+      "totalCups": 247,
+      "lastCups": 0,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 83,
+      "lastOrders": 0
+    },
+    "600684297": {
+      "time": "2023/03/24",
+      "totalCups": 227,
+      "lastCups": 42,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 75,
+      "lastOrders": 27
+    },
+    "600690714": {
+      "time": "2023/03/24",
+      "totalCups": 349,
+      "lastCups": 0,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 114,
+      "lastOrders": 0
+    },
+    "600693069": {
+      "time": "2023/03/24",
+      "totalCups": 187,
+      "lastCups": 0,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 58,
+      "lastOrders": 0
+    },
+    "600695245": {
+      "time": "2023/03/24",
+      "totalCups": 186,
+      "lastCups": 0,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 58,
+      "lastOrders": 0
+    },
+    "600703629": {
+      "time": "2023/03/24",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600703882": {
+      "time": "2023/03/24",
+      "totalCups": 174,
+      "lastCups": 0,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 58,
+      "lastOrders": 0
+    },
+    "600714044": {
+      "time": "2023/03/24",
+      "totalCups": 198,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 53,
+      "lastOrders": 0
+    },
+    "600721359": {
+      "time": "2023/03/24",
+      "totalCups": 18,
+      "lastCups": 5,
+      "id": "600721359",
+      "name": "ARTEASG（广州市番禺区奥园广场店）",
+      "totalOrders": 8,
+      "lastOrders": 2
+    },
+    "600722551": {
+      "time": "2023/03/24",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600731355": {
+      "time": "2023/03/24",
+      "totalCups": 12,
+      "lastCups": 2,
+      "id": "600731355",
+      "name": "ARTEASG（广州市番禺区永旺梦乐城店）",
+      "totalOrders": 6,
+      "lastOrders": 1
+    },
+    "600757118": {
+      "time": "2023/03/24",
+      "totalCups": 171,
+      "lastCups": 0,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 53,
+      "lastOrders": 0
+    },
+    "600906223": {
+      "time": "2023/03/24",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/25",
+      "totalCups": 98,
+      "lastCups": 0,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 44,
+      "lastOrders": 0
+    },
+    "600515769": {
+      "time": "2023/03/25",
+      "totalCups": 98,
+      "lastCups": 0,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 37,
+      "lastOrders": 0
+    },
+    "600516719": {
+      "time": "2023/03/25",
+      "totalCups": 148,
+      "lastCups": 0,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 70,
+      "lastOrders": 0
+    },
+    "600517735": {
+      "time": "2023/03/25",
+      "totalCups": 74,
+      "lastCups": 0,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 44,
+      "lastOrders": 0
+    },
+    "600519445": {
+      "time": "2023/03/25",
+      "totalCups": 55,
+      "lastCups": 0,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 15,
+      "lastOrders": 0
+    },
+    "600519705": {
+      "time": "2023/03/25",
+      "totalCups": 51,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 20,
+      "lastOrders": 0
+    },
+    "600520674": {
+      "time": "2023/03/25",
+      "totalCups": 37,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 10,
+      "lastOrders": 0
+    },
+    "600520710": {
+      "time": "2023/03/25",
+      "totalCups": 39,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 14,
+      "lastOrders": 0
+    },
+    "600520978": {
+      "time": "2023/03/25",
+      "totalCups": 96,
+      "lastCups": 0,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 49,
+      "lastOrders": 0
+    },
+    "600522702": {
+      "time": "2023/03/25",
+      "totalCups": 116,
+      "lastCups": 0,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 47,
+      "lastOrders": 0
+    },
+    "600522744": {
+      "time": "2023/03/25",
+      "totalCups": 45,
+      "lastCups": 18,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 25,
+      "lastOrders": 14
+    },
+    "600523648": {
+      "time": "2023/03/25",
+      "totalCups": 118,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 61,
+      "lastOrders": 0
+    },
+    "600523696": {
+      "time": "2023/03/25",
+      "totalCups": 82,
+      "lastCups": 0,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 43,
+      "lastOrders": 0
+    },
+    "600523699": {
+      "time": "2023/03/25",
+      "totalCups": 92,
+      "lastCups": 0,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 37,
+      "lastOrders": 0
+    },
+    "600524637": {
+      "time": "2023/03/25",
+      "totalCups": 47,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600524647": {
+      "time": "2023/03/25",
+      "totalCups": 76,
+      "lastCups": 0,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 42,
+      "lastOrders": 0
+    },
+    "600524676": {
+      "time": "2023/03/25",
+      "totalCups": 86,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 50,
+      "lastOrders": 0
+    },
+    "600525598": {
+      "time": "2023/03/25",
+      "totalCups": 97,
+      "lastCups": 0,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 41,
+      "lastOrders": 0
+    },
+    "600525678": {
+      "time": "2023/03/25",
+      "totalCups": 14,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 5,
+      "lastOrders": 0
+    },
+    "600526537": {
+      "time": "2023/03/25",
+      "totalCups": 86,
+      "lastCups": 0,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 36,
+      "lastOrders": 0
+    },
+    "600526578": {
+      "time": "2023/03/25",
+      "totalCups": 212,
+      "lastCups": 0,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 96,
+      "lastOrders": 0
+    },
+    "600526611": {
+      "time": "2023/03/25",
+      "totalCups": 59,
+      "lastCups": 0,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 28,
+      "lastOrders": 0
+    },
+    "600526660": {
+      "time": "2023/03/25",
+      "totalCups": 53,
+      "lastCups": 0,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600529806": {
+      "time": "2023/03/25",
+      "totalCups": 180,
+      "lastCups": 0,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 93,
+      "lastOrders": 0
+    },
+    "600529807": {
+      "time": "2023/03/25",
+      "totalCups": 79,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 43,
+      "lastOrders": 0
+    },
+    "600529850": {
+      "time": "2023/03/25",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600530129": {
+      "time": "2023/03/25",
+      "totalCups": 121,
+      "lastCups": 0,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 53,
+      "lastOrders": 0
+    },
+    "600534328": {
+      "time": "2023/03/25",
+      "totalCups": 81,
+      "lastCups": 0,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 30,
+      "lastOrders": 0
+    },
+    "600534576": {
+      "time": "2023/03/25",
+      "totalCups": 64,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 31,
+      "lastOrders": 0
+    },
+    "600535382": {
+      "time": "2023/03/25",
+      "totalCups": 94,
+      "lastCups": 0,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 54,
+      "lastOrders": 0
+    },
+    "600535674": {
+      "time": "2023/03/25",
+      "totalCups": 73,
+      "lastCups": 0,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 33,
+      "lastOrders": 0
+    },
+    "600537161": {
+      "time": "2023/03/25",
+      "totalCups": 124,
+      "lastCups": 0,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 61,
+      "lastOrders": 0
+    },
+    "600537173": {
+      "time": "2023/03/25",
+      "totalCups": 72,
+      "lastCups": 0,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 32,
+      "lastOrders": 0
+    },
+    "600537199": {
+      "time": "2023/03/25",
+      "totalCups": 107,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 31,
+      "lastOrders": 0
+    },
+    "600537224": {
+      "time": "2023/03/25",
+      "totalCups": 150,
+      "lastCups": 0,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 66,
+      "lastOrders": 0
+    },
+    "600539699": {
+      "time": "2023/03/25",
+      "totalCups": 83,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 36,
+      "lastOrders": 0
+    },
+    "600540081": {
+      "time": "2023/03/25",
+      "totalCups": 162,
+      "lastCups": 0,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 80,
+      "lastOrders": 0
+    },
+    "600541181": {
+      "time": "2023/03/25",
+      "totalCups": 82,
+      "lastCups": 0,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 38,
+      "lastOrders": 0
+    },
+    "600542085": {
+      "time": "2023/03/25",
+      "totalCups": 46,
+      "lastCups": 3,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 11,
+      "lastOrders": 2
+    },
+    "600542137": {
+      "time": "2023/03/25",
+      "totalCups": 175,
+      "lastCups": 0,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 92,
+      "lastOrders": 0
+    },
+    "600543025": {
+      "time": "2023/03/25",
+      "totalCups": 92,
+      "lastCups": 0,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 36,
+      "lastOrders": 0
+    },
+    "600543103": {
+      "time": "2023/03/25",
+      "totalCups": 100,
+      "lastCups": 0,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 48,
+      "lastOrders": 0
+    },
+    "600543109": {
+      "time": "2023/03/25",
+      "totalCups": 53,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600543417": {
+      "time": "2023/03/25",
+      "totalCups": 123,
+      "lastCups": 0,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 55,
+      "lastOrders": 0
+    },
+    "600544129": {
+      "time": "2023/03/25",
+      "totalCups": 173,
+      "lastCups": 0,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 93,
+      "lastOrders": 0
+    },
+    "600549020": {
+      "time": "2023/03/25",
+      "totalCups": 260,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600583122": {
+      "time": "2023/03/25",
+      "totalCups": 65,
+      "lastCups": 0,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 26,
+      "lastOrders": 0
+    },
+    "600630507": {
+      "time": "2023/03/25",
+      "totalCups": 75,
+      "lastCups": 0,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 32,
+      "lastOrders": 0
+    },
+    "600635227": {
+      "time": "2023/03/25",
+      "totalCups": 66,
+      "lastCups": 0,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 37,
+      "lastOrders": 0
+    },
+    "600684267": {
+      "time": "2023/03/25",
+      "totalCups": 111,
+      "lastCups": 0,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 46,
+      "lastOrders": 0
+    },
+    "600684297": {
+      "time": "2023/03/25",
+      "totalCups": 103,
+      "lastCups": 49,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 41,
+      "lastOrders": 25
+    },
+    "600690714": {
+      "time": "2023/03/25",
+      "totalCups": 202,
+      "lastCups": 0,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 101,
+      "lastOrders": 0
+    },
+    "600693069": {
+      "time": "2023/03/25",
+      "totalCups": 69,
+      "lastCups": 0,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 25,
+      "lastOrders": 0
+    },
+    "600695245": {
+      "time": "2023/03/25",
+      "totalCups": 45,
+      "lastCups": 0,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 14,
+      "lastOrders": 0
+    },
+    "600703629": {
+      "time": "2023/03/25",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600703882": {
+      "time": "2023/03/25",
+      "totalCups": 73,
+      "lastCups": 0,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 27,
+      "lastOrders": 0
+    },
+    "600714044": {
+      "time": "2023/03/25",
+      "totalCups": 82,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 43,
+      "lastOrders": 0
+    },
+    "600722551": {
+      "time": "2023/03/25",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/25",
+      "totalCups": 93,
+      "lastCups": 0,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 45,
+      "lastOrders": 0
+    },
+    "600906223": {
+      "time": "2023/03/25",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/26",
+      "totalCups": 132,
+      "lastCups": 0,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 45,
+      "lastOrders": 0
+    },
+    "600515769": {
+      "time": "2023/03/26",
+      "totalCups": 137,
+      "lastCups": 0,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 25,
+      "lastOrders": 0
+    },
+    "600516719": {
+      "time": "2023/03/26",
+      "totalCups": 138,
+      "lastCups": 0,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 74,
+      "lastOrders": 0
+    },
+    "600517735": {
+      "time": "2023/03/26",
+      "totalCups": 92,
+      "lastCups": 0,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 52,
+      "lastOrders": 0
+    },
+    "600519445": {
+      "time": "2023/03/26",
+      "totalCups": 111,
+      "lastCups": 26,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 37,
+      "lastOrders": 17
+    },
+    "600519705": {
+      "time": "2023/03/26",
+      "totalCups": 61,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 21,
+      "lastOrders": 0
+    },
+    "600520674": {
+      "time": "2023/03/26",
+      "totalCups": 51,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 7,
+      "lastOrders": 0
+    },
+    "600520695": {
+      "time": "2023/03/26",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600520695",
+      "name": "ARTEASG（广州市番禺区汀沙市场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/03/26",
+      "totalCups": 52,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 13,
+      "lastOrders": 0
+    },
+    "600520972": {
+      "time": "2023/03/26",
+      "totalCups": 48,
+      "lastCups": 44,
+      "id": "600520972",
+      "name": "ARTEASG（广州市番禺区亚运城国际商业街店）",
+      "totalOrders": 20,
+      "lastOrders": 20
+    },
+    "600520978": {
+      "time": "2023/03/26",
+      "totalCups": 140,
+      "lastCups": 0,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 56,
+      "lastOrders": 0
+    },
+    "600522702": {
+      "time": "2023/03/26",
+      "totalCups": 166,
+      "lastCups": 0,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 71,
+      "lastOrders": 0
+    },
+    "600522744": {
+      "time": "2023/03/26",
+      "totalCups": 103,
+      "lastCups": 14,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 24,
+      "lastOrders": 10
+    },
+    "600523648": {
+      "time": "2023/03/26",
+      "totalCups": 141,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 61,
+      "lastOrders": 0
+    },
+    "600523696": {
+      "time": "2023/03/26",
+      "totalCups": 131,
+      "lastCups": 0,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 62,
+      "lastOrders": 0
+    },
+    "600523699": {
+      "time": "2023/03/26",
+      "totalCups": 118,
+      "lastCups": 0,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 39,
+      "lastOrders": 0
+    },
+    "600524637": {
+      "time": "2023/03/26",
+      "totalCups": 63,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 15,
+      "lastOrders": 0
+    },
+    "600524647": {
+      "time": "2023/03/26",
+      "totalCups": 120,
+      "lastCups": 0,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 62,
+      "lastOrders": 0
+    },
+    "600524676": {
+      "time": "2023/03/26",
+      "totalCups": 58,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 32,
+      "lastOrders": 0
+    },
+    "600525598": {
+      "time": "2023/03/26",
+      "totalCups": 167,
+      "lastCups": 0,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 60,
+      "lastOrders": 0
+    },
+    "600525678": {
+      "time": "2023/03/26",
+      "totalCups": 5,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 1,
+      "lastOrders": 0
+    },
+    "600526535": {
+      "time": "2023/03/26",
+      "totalCups": 21,
+      "lastCups": 11,
+      "id": "600526535",
+      "name": "ARTEASG（广州市从化区江埔街欣荣宏商业街店）",
+      "totalOrders": 7,
+      "lastOrders": 7
+    },
+    "600526537": {
+      "time": "2023/03/26",
+      "totalCups": 125,
+      "lastCups": 0,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 67,
+      "lastOrders": 0
+    },
+    "600526578": {
+      "time": "2023/03/26",
+      "totalCups": 162,
+      "lastCups": 61,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 73,
+      "lastOrders": 36
+    },
+    "600526611": {
+      "time": "2023/03/26",
+      "totalCups": 137,
+      "lastCups": 0,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 59,
+      "lastOrders": 0
+    },
+    "600526660": {
+      "time": "2023/03/26",
+      "totalCups": 65,
+      "lastCups": 0,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 24,
+      "lastOrders": 0
+    },
+    "600529806": {
+      "time": "2023/03/26",
+      "totalCups": 182,
+      "lastCups": 0,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 90,
+      "lastOrders": 0
+    },
+    "600529807": {
+      "time": "2023/03/26",
+      "totalCups": 107,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 47,
+      "lastOrders": 0
+    },
+    "600529850": {
+      "time": "2023/03/26",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600530129": {
+      "time": "2023/03/26",
+      "totalCups": 127,
+      "lastCups": 0,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 49,
+      "lastOrders": 0
+    },
+    "600534328": {
+      "time": "2023/03/26",
+      "totalCups": 168,
+      "lastCups": 0,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 51,
+      "lastOrders": 0
+    },
+    "600534576": {
+      "time": "2023/03/26",
+      "totalCups": 86,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 39,
+      "lastOrders": 0
+    },
+    "600535382": {
+      "time": "2023/03/26",
+      "totalCups": 167,
+      "lastCups": 0,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 84,
+      "lastOrders": 0
+    },
+    "600535674": {
+      "time": "2023/03/26",
+      "totalCups": 98,
+      "lastCups": 2,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 50,
+      "lastOrders": 1
+    },
+    "600537161": {
+      "time": "2023/03/26",
+      "totalCups": 104,
+      "lastCups": 0,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 50,
+      "lastOrders": 0
+    },
+    "600537173": {
+      "time": "2023/03/26",
+      "totalCups": 99,
+      "lastCups": 0,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 49,
+      "lastOrders": 0
+    },
+    "600537199": {
+      "time": "2023/03/26",
+      "totalCups": 72,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 24,
+      "lastOrders": 0
+    },
+    "600537224": {
+      "time": "2023/03/26",
+      "totalCups": 136,
+      "lastCups": 0,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 61,
+      "lastOrders": 0
+    },
+    "600539699": {
+      "time": "2023/03/26",
+      "totalCups": 101,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 41,
+      "lastOrders": 0
+    },
+    "600540081": {
+      "time": "2023/03/26",
+      "totalCups": 201,
+      "lastCups": 0,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 79,
+      "lastOrders": 0
+    },
+    "600541181": {
+      "time": "2023/03/26",
+      "totalCups": 106,
+      "lastCups": 0,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 47,
+      "lastOrders": 0
+    },
+    "600542085": {
+      "time": "2023/03/26",
+      "totalCups": 72,
+      "lastCups": 0,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 18,
+      "lastOrders": null
+    },
+    "600542137": {
+      "time": "2023/03/26",
+      "totalCups": 203,
+      "lastCups": 0,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 78,
+      "lastOrders": 0
+    },
+    "600543025": {
+      "time": "2023/03/26",
+      "totalCups": 128,
+      "lastCups": 0,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 52,
+      "lastOrders": 0
+    },
+    "600543103": {
+      "time": "2023/03/26",
+      "totalCups": 107,
+      "lastCups": 0,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 53,
+      "lastOrders": 0
+    },
+    "600543109": {
+      "time": "2023/03/26",
+      "totalCups": 46,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 20,
+      "lastOrders": 0
+    },
+    "600543417": {
+      "time": "2023/03/26",
+      "totalCups": 88,
+      "lastCups": 0,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 45,
+      "lastOrders": 0
+    },
+    "600544129": {
+      "time": "2023/03/26",
+      "totalCups": 155,
+      "lastCups": 0,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 81,
+      "lastOrders": 0
+    },
+    "600549020": {
+      "time": "2023/03/26",
+      "totalCups": 69,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 19,
+      "lastOrders": 0
+    },
+    "600577623": {
+      "time": "2023/03/26",
+      "totalCups": 70,
+      "lastCups": 63,
+      "id": "600577623",
+      "name": "ARTEASG（广州市花都区狮岭镇教育东路店）",
+      "totalOrders": 40,
+      "lastOrders": 37
+    },
+    "600583122": {
+      "time": "2023/03/26",
+      "totalCups": 75,
+      "lastCups": 0,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 35,
+      "lastOrders": 0
+    },
+    "600630507": {
+      "time": "2023/03/26",
+      "totalCups": 46,
+      "lastCups": 0,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 24,
+      "lastOrders": 0
+    },
+    "600635227": {
+      "time": "2023/03/26",
+      "totalCups": 106,
+      "lastCups": 0,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 39,
+      "lastOrders": 0
+    },
+    "600679083": {
+      "time": "2023/03/26",
+      "totalCups": 6,
+      "lastCups": 0,
+      "id": "600679083",
+      "name": "ARTEASG（广州市番禺区祈福缤纷世界店）",
+      "totalOrders": 3,
+      "lastOrders": null
+    },
+    "600684267": {
+      "time": "2023/03/26",
+      "totalCups": 114,
+      "lastCups": 0,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 44,
+      "lastOrders": 0
+    },
+    "600684297": {
+      "time": "2023/03/26",
+      "totalCups": 130,
+      "lastCups": 27,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 47,
+      "lastOrders": 18
+    },
+    "600690714": {
+      "time": "2023/03/26",
+      "totalCups": 208,
+      "lastCups": 0,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 103,
+      "lastOrders": 0
+    },
+    "600693069": {
+      "time": "2023/03/26",
+      "totalCups": 74,
+      "lastCups": 0,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 18,
+      "lastOrders": 0
+    },
+    "600695245": {
+      "time": "2023/03/26",
+      "totalCups": 74,
+      "lastCups": 0,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 29,
+      "lastOrders": 0
+    },
+    "600703629": {
+      "time": "2023/03/26",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600703882": {
+      "time": "2023/03/26",
+      "totalCups": 92,
+      "lastCups": 0,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 32,
+      "lastOrders": 0
+    },
+    "600714044": {
+      "time": "2023/03/26",
+      "totalCups": 71,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 35,
+      "lastOrders": 0
+    },
+    "600721359": {
+      "time": "2023/03/26",
+      "totalCups": 5,
+      "lastCups": 3,
+      "id": "600721359",
+      "name": "ARTEASG（广州市番禺区奥园广场店）",
+      "totalOrders": 1,
+      "lastOrders": 1
+    },
+    "600722551": {
+      "time": "2023/03/26",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/26",
+      "totalCups": 102,
+      "lastCups": 0,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 54,
+      "lastOrders": 0
+    },
+    "600906223": {
+      "time": "2023/03/26",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/27",
+      "totalCups": 132,
+      "lastCups": 17,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 34,
+      "lastOrders": 8
+    },
+    "600515769": {
+      "time": "2023/03/27",
+      "totalCups": 135,
+      "lastCups": 0,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 24,
+      "lastOrders": null
+    },
+    "600516719": {
+      "time": "2023/03/27",
+      "totalCups": 257,
+      "lastCups": 31,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 81,
+      "lastOrders": 13
+    },
+    "600517735": {
+      "time": "2023/03/27",
+      "totalCups": 124,
+      "lastCups": 26,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 47,
+      "lastOrders": 19
+    },
+    "600519445": {
+      "time": "2023/03/27",
+      "totalCups": 104,
+      "lastCups": 4,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 22,
+      "lastOrders": 3
+    },
+    "600519705": {
+      "time": "2023/03/27",
+      "totalCups": 100,
+      "lastCups": 4,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 25,
+      "lastOrders": 3
+    },
+    "600520674": {
+      "time": "2023/03/27",
+      "totalCups": 83,
+      "lastCups": 4,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 11,
+      "lastOrders": 3
+    },
+    "600520710": {
+      "time": "2023/03/27",
+      "totalCups": 63,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 13,
+      "lastOrders": null
+    },
+    "600520978": {
+      "time": "2023/03/27",
+      "totalCups": 137,
+      "lastCups": 2,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 46,
+      "lastOrders": 1
+    },
+    "600522702": {
+      "time": "2023/03/27",
+      "totalCups": 190,
+      "lastCups": 7,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 73,
+      "lastOrders": 4
+    },
+    "600522744": {
+      "time": "2023/03/27",
+      "totalCups": 59,
+      "lastCups": 0,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 12,
+      "lastOrders": null
+    },
+    "600523648": {
+      "time": "2023/03/27",
+      "totalCups": 133,
+      "lastCups": 18,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 52,
+      "lastOrders": 10
+    },
+    "600523696": {
+      "time": "2023/03/27",
+      "totalCups": 235,
+      "lastCups": 13,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 60,
+      "lastOrders": 8
+    },
+    "600523699": {
+      "time": "2023/03/27",
+      "totalCups": 135,
+      "lastCups": 15,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 42,
+      "lastOrders": 12
+    },
+    "600524637": {
+      "time": "2023/03/27",
+      "totalCups": 49,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 12,
+      "lastOrders": null
+    },
+    "600524647": {
+      "time": "2023/03/27",
+      "totalCups": 109,
+      "lastCups": 1,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 51,
+      "lastOrders": 1
+    },
+    "600524676": {
+      "time": "2023/03/27",
+      "totalCups": 108,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 37,
+      "lastOrders": null
+    },
+    "600525598": {
+      "time": "2023/03/27",
+      "totalCups": 169,
+      "lastCups": 1,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 49,
+      "lastOrders": 1
+    },
+    "600525678": {
+      "time": "2023/03/27",
+      "totalCups": 45,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 11,
+      "lastOrders": null
+    },
+    "600526537": {
+      "time": "2023/03/27",
+      "totalCups": 93,
+      "lastCups": 11,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 32,
+      "lastOrders": 6
+    },
+    "600526578": {
+      "time": "2023/03/27",
+      "totalCups": 140,
+      "lastCups": 36,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 53,
+      "lastOrders": 18
+    },
+    "600526611": {
+      "time": "2023/03/27",
+      "totalCups": 195,
+      "lastCups": 6,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 87,
+      "lastOrders": 4
+    },
+    "600526660": {
+      "time": "2023/03/27",
+      "totalCups": 115,
+      "lastCups": 3,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 33,
+      "lastOrders": 3
+    },
+    "600529806": {
+      "time": "2023/03/27",
+      "totalCups": 206,
+      "lastCups": 28,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 63,
+      "lastOrders": 16
+    },
+    "600529807": {
+      "time": "2023/03/27",
+      "totalCups": 163,
+      "lastCups": 25,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 52,
+      "lastOrders": 10
+    },
+    "600529850": {
+      "time": "2023/03/27",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/03/27",
+      "totalCups": 133,
+      "lastCups": 24,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 52,
+      "lastOrders": 16
+    },
+    "600534328": {
+      "time": "2023/03/27",
+      "totalCups": 120,
+      "lastCups": 10,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 34,
+      "lastOrders": 7
+    },
+    "600534576": {
+      "time": "2023/03/27",
+      "totalCups": 79,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 37,
+      "lastOrders": null
+    },
+    "600535382": {
+      "time": "2023/03/27",
+      "totalCups": 118,
+      "lastCups": 17,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 44,
+      "lastOrders": 10
+    },
+    "600535674": {
+      "time": "2023/03/27",
+      "totalCups": 169,
+      "lastCups": 4,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 62,
+      "lastOrders": 2
+    },
+    "600537161": {
+      "time": "2023/03/27",
+      "totalCups": 135,
+      "lastCups": 37,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 45,
+      "lastOrders": 25
+    },
+    "600537173": {
+      "time": "2023/03/27",
+      "totalCups": 77,
+      "lastCups": 0,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 22,
+      "lastOrders": null
+    },
+    "600537199": {
+      "time": "2023/03/27",
+      "totalCups": 123,
+      "lastCups": 4,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 24,
+      "lastOrders": 2
+    },
+    "600537224": {
+      "time": "2023/03/27",
+      "totalCups": 147,
+      "lastCups": 10,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 57,
+      "lastOrders": 10
+    },
+    "600539699": {
+      "time": "2023/03/27",
+      "totalCups": 150,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 47,
+      "lastOrders": null
+    },
+    "600540081": {
+      "time": "2023/03/27",
+      "totalCups": 161,
+      "lastCups": 38,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 50,
+      "lastOrders": 19
+    },
+    "600541181": {
+      "time": "2023/03/27",
+      "totalCups": 112,
+      "lastCups": 2,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 37,
+      "lastOrders": 1
+    },
+    "600542085": {
+      "time": "2023/03/27",
+      "totalCups": 106,
+      "lastCups": 11,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 14,
+      "lastOrders": 8
+    },
+    "600542137": {
+      "time": "2023/03/27",
+      "totalCups": 286,
+      "lastCups": 46,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 100,
+      "lastOrders": 24
+    },
+    "600543025": {
+      "time": "2023/03/27",
+      "totalCups": 140,
+      "lastCups": 46,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 36,
+      "lastOrders": 22
+    },
+    "600543103": {
+      "time": "2023/03/27",
+      "totalCups": 155,
+      "lastCups": 3,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 71,
+      "lastOrders": 2
+    },
+    "600543109": {
+      "time": "2023/03/27",
+      "totalCups": 70,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 23,
+      "lastOrders": null
+    },
+    "600543417": {
+      "time": "2023/03/27",
+      "totalCups": 157,
+      "lastCups": 11,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 54,
+      "lastOrders": 7
+    },
+    "600544129": {
+      "time": "2023/03/27",
+      "totalCups": 239,
+      "lastCups": 9,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 109,
+      "lastOrders": 4
+    },
+    "600549020": {
+      "time": "2023/03/27",
+      "totalCups": 34,
+      "lastCups": 3,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 16,
+      "lastOrders": 2
+    },
+    "600583122": {
+      "time": "2023/03/27",
+      "totalCups": 119,
+      "lastCups": 1,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 33,
+      "lastOrders": 1
+    },
+    "600630507": {
+      "time": "2023/03/27",
+      "totalCups": 52,
+      "lastCups": 0,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 22,
+      "lastOrders": null
+    },
+    "600635227": {
+      "time": "2023/03/27",
+      "totalCups": 214,
+      "lastCups": 20,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 48,
+      "lastOrders": 12
+    },
+    "600684267": {
+      "time": "2023/03/27",
+      "totalCups": 207,
+      "lastCups": 36,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 50,
+      "lastOrders": 30
+    },
+    "600684297": {
+      "time": "2023/03/27",
+      "totalCups": 117,
+      "lastCups": 30,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 33,
+      "lastOrders": 18
+    },
+    "600690714": {
+      "time": "2023/03/27",
+      "totalCups": 178,
+      "lastCups": 36,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 71,
+      "lastOrders": 20
+    },
+    "600693069": {
+      "time": "2023/03/27",
+      "totalCups": 113,
+      "lastCups": 10,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 22,
+      "lastOrders": 10
+    },
+    "600695245": {
+      "time": "2023/03/27",
+      "totalCups": 103,
+      "lastCups": 0,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 23,
+      "lastOrders": null
+    },
+    "600703629": {
+      "time": "2023/03/27",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/03/27",
+      "totalCups": 124,
+      "lastCups": 6,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 27,
+      "lastOrders": 5
+    },
+    "600714044": {
+      "time": "2023/03/27",
+      "totalCups": 66,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 19,
+      "lastOrders": null
+    },
+    "600722551": {
+      "time": "2023/03/27",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/27",
+      "totalCups": 117,
+      "lastCups": 1,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 41,
+      "lastOrders": 1
+    },
+    "600906223": {
+      "time": "2023/03/27",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/28",
+      "totalCups": 204,
+      "lastCups": 44,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 51,
+      "lastOrders": 16
+    },
+    "600515769": {
+      "time": "2023/03/28",
+      "totalCups": 143,
+      "lastCups": 5,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 43,
+      "lastOrders": 3
+    },
+    "600516719": {
+      "time": "2023/03/28",
+      "totalCups": 223,
+      "lastCups": 12,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 64,
+      "lastOrders": 7
+    },
+    "600517735": {
+      "time": "2023/03/28",
+      "totalCups": 87,
+      "lastCups": 2,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 33,
+      "lastOrders": 1
+    },
+    "600519445": {
+      "time": "2023/03/28",
+      "totalCups": 126,
+      "lastCups": 0,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 21,
+      "lastOrders": null
+    },
+    "600519705": {
+      "time": "2023/03/28",
+      "totalCups": 81,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 19,
+      "lastOrders": null
+    },
+    "600520674": {
+      "time": "2023/03/28",
+      "totalCups": 10,
+      "lastCups": 3,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 3,
+      "lastOrders": 2
+    },
+    "600520710": {
+      "time": "2023/03/28",
+      "totalCups": 32,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 12,
+      "lastOrders": null
+    },
+    "600520978": {
+      "time": "2023/03/28",
+      "totalCups": 127,
+      "lastCups": 39,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 49,
+      "lastOrders": 27
+    },
+    "600522702": {
+      "time": "2023/03/28",
+      "totalCups": 310,
+      "lastCups": 8,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 116,
+      "lastOrders": 5
+    },
+    "600522744": {
+      "time": "2023/03/28",
+      "totalCups": 68,
+      "lastCups": 1,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 10,
+      "lastOrders": 1
+    },
+    "600523648": {
+      "time": "2023/03/28",
+      "totalCups": 99,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 37,
+      "lastOrders": null
+    },
+    "600523696": {
+      "time": "2023/03/28",
+      "totalCups": 192,
+      "lastCups": 88,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 59,
+      "lastOrders": 42
+    },
+    "600523699": {
+      "time": "2023/03/28",
+      "totalCups": 161,
+      "lastCups": 7,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 56,
+      "lastOrders": 6
+    },
+    "600524637": {
+      "time": "2023/03/28",
+      "totalCups": 90,
+      "lastCups": 1,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 13,
+      "lastOrders": 1
+    },
+    "600524647": {
+      "time": "2023/03/28",
+      "totalCups": 112,
+      "lastCups": 1,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 42,
+      "lastOrders": 1
+    },
+    "600524676": {
+      "time": "2023/03/28",
+      "totalCups": 93,
+      "lastCups": 6,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 44,
+      "lastOrders": 3
+    },
+    "600525598": {
+      "time": "2023/03/28",
+      "totalCups": 163,
+      "lastCups": 21,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 52,
+      "lastOrders": 13
+    },
+    "600525678": {
+      "time": "2023/03/28",
+      "totalCups": 78,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 21,
+      "lastOrders": null
+    },
+    "600526537": {
+      "time": "2023/03/28",
+      "totalCups": 150,
+      "lastCups": 10,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 53,
+      "lastOrders": 7
+    },
+    "600526578": {
+      "time": "2023/03/28",
+      "totalCups": 135,
+      "lastCups": 38,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 44,
+      "lastOrders": 26
+    },
+    "600526611": {
+      "time": "2023/03/28",
+      "totalCups": 235,
+      "lastCups": 9,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 99,
+      "lastOrders": 3
+    },
+    "600526660": {
+      "time": "2023/03/28",
+      "totalCups": 103,
+      "lastCups": 3,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 40,
+      "lastOrders": 2
+    },
+    "600529806": {
+      "time": "2023/03/28",
+      "totalCups": 272,
+      "lastCups": 90,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 80,
+      "lastOrders": 38
+    },
+    "600529807": {
+      "time": "2023/03/28",
+      "totalCups": 320,
+      "lastCups": 18,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 87,
+      "lastOrders": 10
+    },
+    "600529850": {
+      "time": "2023/03/28",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/03/28",
+      "totalCups": 162,
+      "lastCups": 44,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 81,
+      "lastOrders": 29
+    },
+    "600534328": {
+      "time": "2023/03/28",
+      "totalCups": 154,
+      "lastCups": 8,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 52,
+      "lastOrders": 5
+    },
+    "600534576": {
+      "time": "2023/03/28",
+      "totalCups": 71,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 32,
+      "lastOrders": null
+    },
+    "600535382": {
+      "time": "2023/03/28",
+      "totalCups": 131,
+      "lastCups": 5,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 46,
+      "lastOrders": 4
+    },
+    "600535674": {
+      "time": "2023/03/28",
+      "totalCups": 130,
+      "lastCups": 2,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 48,
+      "lastOrders": 1
+    },
+    "600537161": {
+      "time": "2023/03/28",
+      "totalCups": 152,
+      "lastCups": 14,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 51,
+      "lastOrders": 8
+    },
+    "600537173": {
+      "time": "2023/03/28",
+      "totalCups": 93,
+      "lastCups": 3,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 36,
+      "lastOrders": 3
+    },
+    "600537199": {
+      "time": "2023/03/28",
+      "totalCups": 77,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 22,
+      "lastOrders": null
+    },
+    "600537224": {
+      "time": "2023/03/28",
+      "totalCups": 155,
+      "lastCups": 4,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 62,
+      "lastOrders": 3
+    },
+    "600539699": {
+      "time": "2023/03/28",
+      "totalCups": 163,
+      "lastCups": 5,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 59,
+      "lastOrders": 2
+    },
+    "600540081": {
+      "time": "2023/03/28",
+      "totalCups": 166,
+      "lastCups": 1,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 67,
+      "lastOrders": 1
+    },
+    "600541181": {
+      "time": "2023/03/28",
+      "totalCups": 78,
+      "lastCups": 1,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 19,
+      "lastOrders": 1
+    },
+    "600542085": {
+      "time": "2023/03/28",
+      "totalCups": 82,
+      "lastCups": 6,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 12,
+      "lastOrders": 4
+    },
+    "600542137": {
+      "time": "2023/03/28",
+      "totalCups": 181,
+      "lastCups": 48,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 65,
+      "lastOrders": 22
+    },
+    "600543025": {
+      "time": "2023/03/28",
+      "totalCups": 132,
+      "lastCups": 62,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 47,
+      "lastOrders": 32
+    },
+    "600543103": {
+      "time": "2023/03/28",
+      "totalCups": 208,
+      "lastCups": 16,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 67,
+      "lastOrders": 9
+    },
+    "600543109": {
+      "time": "2023/03/28",
+      "totalCups": 98,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 29,
+      "lastOrders": null
+    },
+    "600543417": {
+      "time": "2023/03/28",
+      "totalCups": 198,
+      "lastCups": 17,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 59,
+      "lastOrders": 11
+    },
+    "600544129": {
+      "time": "2023/03/28",
+      "totalCups": 200,
+      "lastCups": 24,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 88,
+      "lastOrders": 10
+    },
+    "600549020": {
+      "time": "2023/03/28",
+      "totalCups": 43,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 17,
+      "lastOrders": null
+    },
+    "600583122": {
+      "time": "2023/03/28",
+      "totalCups": 114,
+      "lastCups": 0,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 37,
+      "lastOrders": null
+    },
+    "600630507": {
+      "time": "2023/03/28",
+      "totalCups": 103,
+      "lastCups": 15,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 27,
+      "lastOrders": 10
+    },
+    "600635227": {
+      "time": "2023/03/28",
+      "totalCups": 168,
+      "lastCups": 6,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 62,
+      "lastOrders": 3
+    },
+    "600684267": {
+      "time": "2023/03/28",
+      "totalCups": 153,
+      "lastCups": 28,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 35,
+      "lastOrders": 8
+    },
+    "600684297": {
+      "time": "2023/03/28",
+      "totalCups": 82,
+      "lastCups": 5,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 27,
+      "lastOrders": 5
+    },
+    "600690714": {
+      "time": "2023/03/28",
+      "totalCups": 179,
+      "lastCups": 28,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 73,
+      "lastOrders": 18
+    },
+    "600693069": {
+      "time": "2023/03/28",
+      "totalCups": 112,
+      "lastCups": 27,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 41,
+      "lastOrders": 23
+    },
+    "600695245": {
+      "time": "2023/03/28",
+      "totalCups": 125,
+      "lastCups": 3,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 28,
+      "lastOrders": 2
+    },
+    "600703629": {
+      "time": "2023/03/28",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/03/28",
+      "totalCups": 133,
+      "lastCups": 12,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 32,
+      "lastOrders": 9
+    },
+    "600714044": {
+      "time": "2023/03/28",
+      "totalCups": 91,
+      "lastCups": 11,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 32,
+      "lastOrders": 5
+    },
+    "600722551": {
+      "time": "2023/03/28",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/28",
+      "totalCups": 115,
+      "lastCups": 5,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 38,
+      "lastOrders": 5
+    },
+    "600906223": {
+      "time": "2023/03/28",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/29",
+      "totalCups": 229,
+      "lastCups": 26,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 66,
+      "lastOrders": 15
+    },
+    "600515769": {
+      "time": "2023/03/29",
+      "totalCups": 180,
+      "lastCups": 16,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 28,
+      "lastOrders": 10
+    },
+    "600516719": {
+      "time": "2023/03/29",
+      "totalCups": 297,
+      "lastCups": 14,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 105,
+      "lastOrders": 8
+    },
+    "600517735": {
+      "time": "2023/03/29",
+      "totalCups": 127,
+      "lastCups": 11,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 31,
+      "lastOrders": 7
+    },
+    "600519445": {
+      "time": "2023/03/29",
+      "totalCups": 144,
+      "lastCups": 3,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 35,
+      "lastOrders": 2
+    },
+    "600519705": {
+      "time": "2023/03/29",
+      "totalCups": 145,
+      "lastCups": 22,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 28,
+      "lastOrders": 15
+    },
+    "600520674": {
+      "time": "2023/03/29",
+      "totalCups": 70,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 2,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/03/29",
+      "totalCups": 50,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 13,
+      "lastOrders": null
+    },
+    "600520978": {
+      "time": "2023/03/29",
+      "totalCups": 163,
+      "lastCups": 16,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 47,
+      "lastOrders": 10
+    },
+    "600522702": {
+      "time": "2023/03/29",
+      "totalCups": 269,
+      "lastCups": 11,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 116,
+      "lastOrders": 8
+    },
+    "600522744": {
+      "time": "2023/03/29",
+      "totalCups": 94,
+      "lastCups": 1,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 25,
+      "lastOrders": 1
+    },
+    "600523648": {
+      "time": "2023/03/29",
+      "totalCups": 144,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 46,
+      "lastOrders": null
+    },
+    "600523696": {
+      "time": "2023/03/29",
+      "totalCups": 239,
+      "lastCups": 3,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 68,
+      "lastOrders": 2
+    },
+    "600523699": {
+      "time": "2023/03/29",
+      "totalCups": 233,
+      "lastCups": 6,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 66,
+      "lastOrders": 3
+    },
+    "600524637": {
+      "time": "2023/03/29",
+      "totalCups": 97,
+      "lastCups": 6,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 14,
+      "lastOrders": 3
+    },
+    "600524647": {
+      "time": "2023/03/29",
+      "totalCups": 181,
+      "lastCups": 1,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 71,
+      "lastOrders": 1
+    },
+    "600524676": {
+      "time": "2023/03/29",
+      "totalCups": 128,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 51,
+      "lastOrders": null
+    },
+    "600525598": {
+      "time": "2023/03/29",
+      "totalCups": 198,
+      "lastCups": 3,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 52,
+      "lastOrders": 1
+    },
+    "600525678": {
+      "time": "2023/03/29",
+      "totalCups": 95,
+      "lastCups": 2,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 31,
+      "lastOrders": 2
+    },
+    "600526537": {
+      "time": "2023/03/29",
+      "totalCups": 209,
+      "lastCups": 5,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 65,
+      "lastOrders": 2
+    },
+    "600526578": {
+      "time": "2023/03/29",
+      "totalCups": 160,
+      "lastCups": 52,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 51,
+      "lastOrders": 27
+    },
+    "600526611": {
+      "time": "2023/03/29",
+      "totalCups": 235,
+      "lastCups": 4,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 99,
+      "lastOrders": 3
+    },
+    "600526660": {
+      "time": "2023/03/29",
+      "totalCups": 182,
+      "lastCups": 1,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 49,
+      "lastOrders": 1
+    },
+    "600529806": {
+      "time": "2023/03/29",
+      "totalCups": 447,
+      "lastCups": 128,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 106,
+      "lastOrders": 52
+    },
+    "600529807": {
+      "time": "2023/03/29",
+      "totalCups": 255,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 89,
+      "lastOrders": null
+    },
+    "600529850": {
+      "time": "2023/03/29",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/03/29",
+      "totalCups": 274,
+      "lastCups": 0,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 76,
+      "lastOrders": null
+    },
+    "600534328": {
+      "time": "2023/03/29",
+      "totalCups": 216,
+      "lastCups": 61,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 61,
+      "lastOrders": 26
+    },
+    "600534576": {
+      "time": "2023/03/29",
+      "totalCups": 62,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 22,
+      "lastOrders": null
+    },
+    "600535382": {
+      "time": "2023/03/29",
+      "totalCups": 181,
+      "lastCups": 2,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 51,
+      "lastOrders": 1
+    },
+    "600535674": {
+      "time": "2023/03/29",
+      "totalCups": 143,
+      "lastCups": 3,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 50,
+      "lastOrders": 2
+    },
+    "600537161": {
+      "time": "2023/03/29",
+      "totalCups": 157,
+      "lastCups": 6,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 44,
+      "lastOrders": 2
+    },
+    "600537173": {
+      "time": "2023/03/29",
+      "totalCups": 120,
+      "lastCups": 0,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 34,
+      "lastOrders": null
+    },
+    "600537199": {
+      "time": "2023/03/29",
+      "totalCups": 155,
+      "lastCups": 3,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 37,
+      "lastOrders": 2
+    },
+    "600537224": {
+      "time": "2023/03/29",
+      "totalCups": 171,
+      "lastCups": 45,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 59,
+      "lastOrders": 27
+    },
+    "600539699": {
+      "time": "2023/03/29",
+      "totalCups": 130,
+      "lastCups": 4,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 47,
+      "lastOrders": 1
+    },
+    "600540081": {
+      "time": "2023/03/29",
+      "totalCups": 240,
+      "lastCups": 25,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 62,
+      "lastOrders": 11
+    },
+    "600541181": {
+      "time": "2023/03/29",
+      "totalCups": 179,
+      "lastCups": 10,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 37,
+      "lastOrders": 5
+    },
+    "600542085": {
+      "time": "2023/03/29",
+      "totalCups": 147,
+      "lastCups": 4,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 15,
+      "lastOrders": 4
+    },
+    "600542137": {
+      "time": "2023/03/29",
+      "totalCups": 229,
+      "lastCups": 80,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 69,
+      "lastOrders": 35
+    },
+    "600543025": {
+      "time": "2023/03/29",
+      "totalCups": 192,
+      "lastCups": 58,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 46,
+      "lastOrders": 26
+    },
+    "600543103": {
+      "time": "2023/03/29",
+      "totalCups": 251,
+      "lastCups": 16,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 94,
+      "lastOrders": 8
+    },
+    "600543109": {
+      "time": "2023/03/29",
+      "totalCups": 131,
+      "lastCups": 2,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 39,
+      "lastOrders": 1
+    },
+    "600543417": {
+      "time": "2023/03/29",
+      "totalCups": 234,
+      "lastCups": 81,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 68,
+      "lastOrders": 35
+    },
+    "600544129": {
+      "time": "2023/03/29",
+      "totalCups": 312,
+      "lastCups": 5,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 139,
+      "lastOrders": 2
+    },
+    "600549020": {
+      "time": "2023/03/29",
+      "totalCups": 62,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 14,
+      "lastOrders": null
+    },
+    "600583122": {
+      "time": "2023/03/29",
+      "totalCups": 159,
+      "lastCups": 5,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 34,
+      "lastOrders": 4
+    },
+    "600630507": {
+      "time": "2023/03/29",
+      "totalCups": 84,
+      "lastCups": 20,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 33,
+      "lastOrders": 15
+    },
+    "600635227": {
+      "time": "2023/03/29",
+      "totalCups": 273,
+      "lastCups": 19,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 73,
+      "lastOrders": 13
+    },
+    "600684267": {
+      "time": "2023/03/29",
+      "totalCups": 225,
+      "lastCups": 10,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 60,
+      "lastOrders": 6
+    },
+    "600684297": {
+      "time": "2023/03/29",
+      "totalCups": 119,
+      "lastCups": 1,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 34,
+      "lastOrders": 1
+    },
+    "600690714": {
+      "time": "2023/03/29",
+      "totalCups": 238,
+      "lastCups": 34,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 85,
+      "lastOrders": 20
+    },
+    "600693069": {
+      "time": "2023/03/29",
+      "totalCups": 147,
+      "lastCups": 14,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 29,
+      "lastOrders": 12
+    },
+    "600695245": {
+      "time": "2023/03/29",
+      "totalCups": 172,
+      "lastCups": 7,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 38,
+      "lastOrders": 4
+    },
+    "600703629": {
+      "time": "2023/03/29",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/03/29",
+      "totalCups": 180,
+      "lastCups": 0,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 36,
+      "lastOrders": null
+    },
+    "600714044": {
+      "time": "2023/03/29",
+      "totalCups": 140,
+      "lastCups": 4,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 40,
+      "lastOrders": 3
+    },
+    "600722551": {
+      "time": "2023/03/29",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/29",
+      "totalCups": 100,
+      "lastCups": 1,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 37,
+      "lastOrders": 1
+    },
+    "600906223": {
+      "time": "2023/03/29",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/03/30",
+      "totalCups": 311,
+      "lastCups": 5,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 63,
+      "lastOrders": 3
+    },
+    "600515769": {
+      "time": "2023/03/30",
+      "totalCups": 119,
+      "lastCups": 17,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 29,
+      "lastOrders": 10
+    },
+    "600516719": {
+      "time": "2023/03/30",
+      "totalCups": 331,
+      "lastCups": 2,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 92,
+      "lastOrders": 2
+    },
+    "600517735": {
+      "time": "2023/03/30",
+      "totalCups": 123,
+      "lastCups": 5,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 29,
+      "lastOrders": 3
+    },
+    "600519445": {
+      "time": "2023/03/30",
+      "totalCups": 150,
+      "lastCups": 0,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 35,
+      "lastOrders": null
+    },
+    "600519705": {
+      "time": "2023/03/30",
+      "totalCups": 111,
+      "lastCups": 9,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 24,
+      "lastOrders": 6
+    },
+    "600520674": {
+      "time": "2023/03/30",
+      "totalCups": 16,
+      "lastCups": 1,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 4,
+      "lastOrders": 1
+    },
+    "600520710": {
+      "time": "2023/03/30",
+      "totalCups": 62,
+      "lastCups": 10,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 10,
+      "lastOrders": 6
+    },
+    "600520978": {
+      "time": "2023/03/30",
+      "totalCups": 174,
+      "lastCups": 59,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 54,
+      "lastOrders": 29
+    },
+    "600522702": {
+      "time": "2023/03/30",
+      "totalCups": 273,
+      "lastCups": 43,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 111,
+      "lastOrders": 22
+    },
+    "600522744": {
+      "time": "2023/03/30",
+      "totalCups": 82,
+      "lastCups": 7,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 18,
+      "lastOrders": 3
+    },
+    "600523648": {
+      "time": "2023/03/30",
+      "totalCups": 111,
+      "lastCups": 0,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 39,
+      "lastOrders": null
+    },
+    "600523696": {
+      "time": "2023/03/30",
+      "totalCups": 245,
+      "lastCups": 1,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 83,
+      "lastOrders": 1
+    },
+    "600523699": {
+      "time": "2023/03/30",
+      "totalCups": 176,
+      "lastCups": 22,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 53,
+      "lastOrders": 11
+    },
+    "600524637": {
+      "time": "2023/03/30",
+      "totalCups": 81,
+      "lastCups": 0,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 15,
+      "lastOrders": null
+    },
+    "600524647": {
+      "time": "2023/03/30",
+      "totalCups": 148,
+      "lastCups": 4,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 56,
+      "lastOrders": 3
+    },
+    "600524676": {
+      "time": "2023/03/30",
+      "totalCups": 109,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 52,
+      "lastOrders": null
+    },
+    "600525598": {
+      "time": "2023/03/30",
+      "totalCups": 212,
+      "lastCups": 7,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 61,
+      "lastOrders": 6
+    },
+    "600525678": {
+      "time": "2023/03/30",
+      "totalCups": 94,
+      "lastCups": 1,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 28,
+      "lastOrders": 1
+    },
+    "600526537": {
+      "time": "2023/03/30",
+      "totalCups": 159,
+      "lastCups": 0,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 55,
+      "lastOrders": null
+    },
+    "600526578": {
+      "time": "2023/03/30",
+      "totalCups": 198,
+      "lastCups": 61,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 43,
+      "lastOrders": 24
+    },
+    "600526611": {
+      "time": "2023/03/30",
+      "totalCups": 338,
+      "lastCups": 10,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 115,
+      "lastOrders": 7
+    },
+    "600526660": {
+      "time": "2023/03/30",
+      "totalCups": 117,
+      "lastCups": 7,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 41,
+      "lastOrders": 7
+    },
+    "600529806": {
+      "time": "2023/03/30",
+      "totalCups": 430,
+      "lastCups": 40,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 104,
+      "lastOrders": 21
+    },
+    "600529807": {
+      "time": "2023/03/30",
+      "totalCups": 308,
+      "lastCups": 0,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 94,
+      "lastOrders": null
+    },
+    "600529850": {
+      "time": "2023/03/30",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/03/30",
+      "totalCups": 255,
+      "lastCups": 1,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 55,
+      "lastOrders": 1
+    },
+    "600534328": {
+      "time": "2023/03/30",
+      "totalCups": 215,
+      "lastCups": 3,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 65,
+      "lastOrders": 2
+    },
+    "600534576": {
+      "time": "2023/03/30",
+      "totalCups": 78,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 29,
+      "lastOrders": null
+    },
+    "600535382": {
+      "time": "2023/03/30",
+      "totalCups": 146,
+      "lastCups": 6,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 57,
+      "lastOrders": 3
+    },
+    "600535674": {
+      "time": "2023/03/30",
+      "totalCups": 145,
+      "lastCups": 0,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 58,
+      "lastOrders": null
+    },
+    "600537161": {
+      "time": "2023/03/30",
+      "totalCups": 249,
+      "lastCups": 64,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 61,
+      "lastOrders": 34
+    },
+    "600537173": {
+      "time": "2023/03/30",
+      "totalCups": 142,
+      "lastCups": 1,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 36,
+      "lastOrders": 1
+    },
+    "600537199": {
+      "time": "2023/03/30",
+      "totalCups": 75,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 25,
+      "lastOrders": null
+    },
+    "600537224": {
+      "time": "2023/03/30",
+      "totalCups": 252,
+      "lastCups": 30,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 85,
+      "lastOrders": 14
+    },
+    "600539699": {
+      "time": "2023/03/30",
+      "totalCups": 220,
+      "lastCups": 2,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 71,
+      "lastOrders": 2
+    },
+    "600540081": {
+      "time": "2023/03/30",
+      "totalCups": 176,
+      "lastCups": 43,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 43,
+      "lastOrders": 22
+    },
+    "600541181": {
+      "time": "2023/03/30",
+      "totalCups": 136,
+      "lastCups": 17,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 39,
+      "lastOrders": 7
+    },
+    "600542085": {
+      "time": "2023/03/30",
+      "totalCups": 104,
+      "lastCups": 7,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 11,
+      "lastOrders": 3
+    },
+    "600542137": {
+      "time": "2023/03/30",
+      "totalCups": 304,
+      "lastCups": 53,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 86,
+      "lastOrders": 21
+    },
+    "600543025": {
+      "time": "2023/03/30",
+      "totalCups": 176,
+      "lastCups": 64,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 42,
+      "lastOrders": 24
+    },
+    "600543103": {
+      "time": "2023/03/30",
+      "totalCups": 308,
+      "lastCups": 9,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 103,
+      "lastOrders": 4
+    },
+    "600543109": {
+      "time": "2023/03/30",
+      "totalCups": 148,
+      "lastCups": 0,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 36,
+      "lastOrders": null
+    },
+    "600543417": {
+      "time": "2023/03/30",
+      "totalCups": 219,
+      "lastCups": 15,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 69,
+      "lastOrders": 7
+    },
+    "600544129": {
+      "time": "2023/03/30",
+      "totalCups": 282,
+      "lastCups": 0,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 108,
+      "lastOrders": null
+    },
+    "600549020": {
+      "time": "2023/03/30",
+      "totalCups": 37,
+      "lastCups": 0,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 21,
+      "lastOrders": null
+    },
+    "600583122": {
+      "time": "2023/03/30",
+      "totalCups": 116,
+      "lastCups": 8,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 31,
+      "lastOrders": 6
+    },
+    "600630507": {
+      "time": "2023/03/30",
+      "totalCups": 87,
+      "lastCups": 8,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 30,
+      "lastOrders": 7
+    },
+    "600635227": {
+      "time": "2023/03/30",
+      "totalCups": 253,
+      "lastCups": 18,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 63,
+      "lastOrders": 9
+    },
+    "600684267": {
+      "time": "2023/03/30",
+      "totalCups": 248,
+      "lastCups": 16,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 61,
+      "lastOrders": 9
+    },
+    "600684297": {
+      "time": "2023/03/30",
+      "totalCups": 158,
+      "lastCups": 6,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 32,
+      "lastOrders": 6
+    },
+    "600690714": {
+      "time": "2023/03/30",
+      "totalCups": 293,
+      "lastCups": 43,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 84,
+      "lastOrders": 16
+    },
+    "600693069": {
+      "time": "2023/03/30",
+      "totalCups": 124,
+      "lastCups": 15,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 21,
+      "lastOrders": 12
+    },
+    "600695245": {
+      "time": "2023/03/30",
+      "totalCups": 127,
+      "lastCups": 2,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 25,
+      "lastOrders": 2
+    },
+    "600703629": {
+      "time": "2023/03/30",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/03/30",
+      "totalCups": 124,
+      "lastCups": 2,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 26,
+      "lastOrders": 1
+    },
+    "600714044": {
+      "time": "2023/03/30",
+      "totalCups": 132,
+      "lastCups": 0,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 35,
+      "lastOrders": null
+    },
+    "600722551": {
+      "time": "2023/03/30",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/03/30",
+      "totalCups": 95,
+      "lastCups": 4,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 43,
+      "lastOrders": 2
+    },
+    "600906223": {
+      "time": "2023/03/30",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/04/01",
+      "totalCups": 350,
+      "lastCups": 34,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 143,
+      "lastOrders": 20
+    },
+    "600515769": {
+      "time": "2023/04/01",
+      "totalCups": 210,
+      "lastCups": 5,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 97,
+      "lastOrders": 2
+    },
+    "600516719": {
+      "time": "2023/04/01",
+      "totalCups": 282,
+      "lastCups": 11,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 148,
+      "lastOrders": 8
+    },
+    "600517735": {
+      "time": "2023/04/01",
+      "totalCups": 255,
+      "lastCups": 9,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 128,
+      "lastOrders": 6
+    },
+    "600519445": {
+      "time": "2023/04/01",
+      "totalCups": 147,
+      "lastCups": 4,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 70,
+      "lastOrders": 1
+    },
+    "600519453": {
+      "time": "2023/04/01",
+      "totalCups": 12,
+      "lastCups": 12,
+      "id": "600519453",
+      "name": "ARTEASG（广州市白云区岭南新世界店）",
+      "totalOrders": 9,
+      "lastOrders": 9
+    },
+    "600519705": {
+      "time": "2023/04/01",
+      "totalCups": 148,
+      "lastCups": 0,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 55,
+      "lastOrders": null
+    },
+    "600520674": {
+      "time": "2023/04/01",
+      "totalCups": 100,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 31,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/04/01",
+      "totalCups": 51,
+      "lastCups": 0,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 29,
+      "lastOrders": null
+    },
+    "600520978": {
+      "time": "2023/04/01",
+      "totalCups": 230,
+      "lastCups": 20,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 93,
+      "lastOrders": 8
+    },
+    "600521700": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600521700",
+      "name": "ARTEASG（广州市番禺区万民城 MO CITY店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600522702": {
+      "time": "2023/04/01",
+      "totalCups": 263,
+      "lastCups": 2,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 136,
+      "lastOrders": 1
+    },
+    "600522744": {
+      "time": "2023/04/01",
+      "totalCups": 133,
+      "lastCups": 3,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 62,
+      "lastOrders": 1
+    },
+    "600523648": {
+      "time": "2023/04/01",
+      "totalCups": 322,
+      "lastCups": 7,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 156,
+      "lastOrders": 6
+    },
+    "600523696": {
+      "time": "2023/04/01",
+      "totalCups": 280,
+      "lastCups": 5,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 129,
+      "lastOrders": 4
+    },
+    "600523699": {
+      "time": "2023/04/01",
+      "totalCups": 280,
+      "lastCups": 15,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 98,
+      "lastOrders": 6
+    },
+    "600524637": {
+      "time": "2023/04/01",
+      "totalCups": 133,
+      "lastCups": 6,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 43,
+      "lastOrders": 3
+    },
+    "600524647": {
+      "time": "2023/04/01",
+      "totalCups": 226,
+      "lastCups": 11,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 122,
+      "lastOrders": 8
+    },
+    "600524676": {
+      "time": "2023/04/01",
+      "totalCups": 204,
+      "lastCups": 6,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 118,
+      "lastOrders": 3
+    },
+    "600525598": {
+      "time": "2023/04/01",
+      "totalCups": 248,
+      "lastCups": 3,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 91,
+      "lastOrders": 2
+    },
+    "600525678": {
+      "time": "2023/04/01",
+      "totalCups": 91,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 17,
+      "lastOrders": null
+    },
+    "600526537": {
+      "time": "2023/04/01",
+      "totalCups": 256,
+      "lastCups": 2,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 126,
+      "lastOrders": 1
+    },
+    "600526578": {
+      "time": "2023/04/01",
+      "totalCups": 292,
+      "lastCups": 91,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 92,
+      "lastOrders": 45
+    },
+    "600526611": {
+      "time": "2023/04/01",
+      "totalCups": 348,
+      "lastCups": 1,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 182,
+      "lastOrders": 1
+    },
+    "600526660": {
+      "time": "2023/04/01",
+      "totalCups": 173,
+      "lastCups": 0,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 59,
+      "lastOrders": null
+    },
+    "600529806": {
+      "time": "2023/04/01",
+      "totalCups": 424,
+      "lastCups": 12,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 192,
+      "lastOrders": 9
+    },
+    "600529807": {
+      "time": "2023/04/01",
+      "totalCups": 248,
+      "lastCups": 18,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 117,
+      "lastOrders": 10
+    },
+    "600529850": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/04/01",
+      "totalCups": 167,
+      "lastCups": 1,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 36,
+      "lastOrders": 1
+    },
+    "600534328": {
+      "time": "2023/04/01",
+      "totalCups": 230,
+      "lastCups": 39,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 74,
+      "lastOrders": 20
+    },
+    "600534576": {
+      "time": "2023/04/01",
+      "totalCups": 161,
+      "lastCups": 5,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 79,
+      "lastOrders": 3
+    },
+    "600535382": {
+      "time": "2023/04/01",
+      "totalCups": 260,
+      "lastCups": 14,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 147,
+      "lastOrders": 7
+    },
+    "600535674": {
+      "time": "2023/04/01",
+      "totalCups": 306,
+      "lastCups": 8,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 107,
+      "lastOrders": 5
+    },
+    "600537161": {
+      "time": "2023/04/01",
+      "totalCups": 196,
+      "lastCups": 19,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 75,
+      "lastOrders": 14
+    },
+    "600537173": {
+      "time": "2023/04/01",
+      "totalCups": 144,
+      "lastCups": 1,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 64,
+      "lastOrders": 1
+    },
+    "600537199": {
+      "time": "2023/04/01",
+      "totalCups": 180,
+      "lastCups": 0,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 59,
+      "lastOrders": null
+    },
+    "600537224": {
+      "time": "2023/04/01",
+      "totalCups": 314,
+      "lastCups": 18,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 168,
+      "lastOrders": 9
+    },
+    "600539699": {
+      "time": "2023/04/01",
+      "totalCups": 263,
+      "lastCups": 0,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 123,
+      "lastOrders": null
+    },
+    "600540081": {
+      "time": "2023/04/01",
+      "totalCups": 318,
+      "lastCups": 3,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 150,
+      "lastOrders": 2
+    },
+    "600541181": {
+      "time": "2023/04/01",
+      "totalCups": 192,
+      "lastCups": 1,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 93,
+      "lastOrders": 1
+    },
+    "600542085": {
+      "time": "2023/04/01",
+      "totalCups": 122,
+      "lastCups": 3,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 32,
+      "lastOrders": 3
+    },
+    "600542137": {
+      "time": "2023/04/01",
+      "totalCups": 442,
+      "lastCups": 173,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 220,
+      "lastOrders": 88
+    },
+    "600543025": {
+      "time": "2023/04/01",
+      "totalCups": 213,
+      "lastCups": 60,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 76,
+      "lastOrders": 37
+    },
+    "600543103": {
+      "time": "2023/04/01",
+      "totalCups": 233,
+      "lastCups": 5,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 120,
+      "lastOrders": 3
+    },
+    "600543109": {
+      "time": "2023/04/01",
+      "totalCups": 167,
+      "lastCups": 5,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 67,
+      "lastOrders": 3
+    },
+    "600543417": {
+      "time": "2023/04/01",
+      "totalCups": 257,
+      "lastCups": 13,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 119,
+      "lastOrders": 6
+    },
+    "600544129": {
+      "time": "2023/04/01",
+      "totalCups": 449,
+      "lastCups": 35,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 261,
+      "lastOrders": 22
+    },
+    "600549020": {
+      "time": "2023/04/01",
+      "totalCups": 141,
+      "lastCups": 1,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 71,
+      "lastOrders": 1
+    },
+    "600583122": {
+      "time": "2023/04/01",
+      "totalCups": 180,
+      "lastCups": 2,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 91,
+      "lastOrders": 1
+    },
+    "600630507": {
+      "time": "2023/04/01",
+      "totalCups": 169,
+      "lastCups": 2,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 64,
+      "lastOrders": 1
+    },
+    "600635227": {
+      "time": "2023/04/01",
+      "totalCups": 237,
+      "lastCups": 6,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 111,
+      "lastOrders": 3
+    },
+    "600684267": {
+      "time": "2023/04/01",
+      "totalCups": 233,
+      "lastCups": 1,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 78,
+      "lastOrders": 1
+    },
+    "600684297": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600690714": {
+      "time": "2023/04/01",
+      "totalCups": 329,
+      "lastCups": 24,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 153,
+      "lastOrders": 14
+    },
+    "600693069": {
+      "time": "2023/04/01",
+      "totalCups": 186,
+      "lastCups": 8,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 59,
+      "lastOrders": 6
+    },
+    "600695245": {
+      "time": "2023/04/01",
+      "totalCups": 214,
+      "lastCups": 8,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 92,
+      "lastOrders": 3
+    },
+    "600703629": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/04/01",
+      "totalCups": 184,
+      "lastCups": 4,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 58,
+      "lastOrders": 2
+    },
+    "600714044": {
+      "time": "2023/04/01",
+      "totalCups": 184,
+      "lastCups": 5,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 87,
+      "lastOrders": 2
+    },
+    "600722551": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/04/01",
+      "totalCups": 281,
+      "lastCups": 13,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 153,
+      "lastOrders": 8
+    },
+    "600906223": {
+      "time": "2023/04/01",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  },
+  {
+    "600514754": {
+      "time": "2023/04/02",
+      "totalCups": 327,
+      "lastCups": 58,
+      "id": "600514754",
+      "name": "ARTEASG（广州市天河区东圃大马路店）",
+      "totalOrders": 154,
+      "lastOrders": 39
+    },
+    "600515769": {
+      "time": "2023/04/02",
+      "totalCups": 239,
+      "lastCups": 19,
+      "id": "600515769",
+      "name": "ARTEASG（广州天河区天河南路步行街店）",
+      "totalOrders": 118,
+      "lastOrders": 13
+    },
+    "600516719": {
+      "time": "2023/04/02",
+      "totalCups": 310,
+      "lastCups": 31,
+      "id": "600516719",
+      "name": "ARTEASG（广州市天河区天河万科广场店）",
+      "totalOrders": 156,
+      "lastOrders": 20
+    },
+    "600517735": {
+      "time": "2023/04/02",
+      "totalCups": 299,
+      "lastCups": 3,
+      "id": "600517735",
+      "name": "ARTEASG（广州市海珠区琶洲保利广场店）",
+      "totalOrders": 166,
+      "lastOrders": 2
+    },
+    "600519445": {
+      "time": "2023/04/02",
+      "totalCups": 185,
+      "lastCups": 4,
+      "id": "600519445",
+      "name": "ARTEASG（广州市黄埔区萝岗万达广场金街店）",
+      "totalOrders": 59,
+      "lastOrders": 2
+    },
+    "600519453": {
+      "time": "2023/04/02",
+      "totalCups": 4,
+      "lastCups": 0,
+      "id": "600519453",
+      "name": "ARTEASG（广州市白云区岭南新世界店）",
+      "totalOrders": 3,
+      "lastOrders": null
+    },
+    "600519705": {
+      "time": "2023/04/02",
+      "totalCups": 169,
+      "lastCups": 11,
+      "id": "600519705",
+      "name": "ARTEASG（广州市白云区江夏地铁站店）",
+      "totalOrders": 70,
+      "lastOrders": 9
+    },
+    "600520674": {
+      "time": "2023/04/02",
+      "totalCups": 143,
+      "lastCups": 0,
+      "id": "600520674",
+      "name": "ARTEASG（广州市番禺区贝岗村大街店）",
+      "totalOrders": 30,
+      "lastOrders": null
+    },
+    "600520710": {
+      "time": "2023/04/02",
+      "totalCups": 121,
+      "lastCups": 1,
+      "id": "600520710",
+      "name": "ARTEASG（广州市白云区凯德店）",
+      "totalOrders": 51,
+      "lastOrders": 1
+    },
+    "600520978": {
+      "time": "2023/04/02",
+      "totalCups": 220,
+      "lastCups": 3,
+      "id": "600520978",
+      "name": "ARTEASG（广州市天河区百脑汇店）",
+      "totalOrders": 94,
+      "lastOrders": 2
+    },
+    "600521700": {
+      "time": "2023/04/02",
+      "totalCups": 19,
+      "lastCups": 11,
+      "id": "600521700",
+      "name": "ARTEASG（广州市番禺区万民城 MO CITY店）",
+      "totalOrders": 5,
+      "lastOrders": 5
+    },
+    "600522702": {
+      "time": "2023/04/02",
+      "totalCups": 308,
+      "lastCups": 11,
+      "id": "600522702",
+      "name": "ARTEASG（广州市天河区东方宝泰购物广场店）",
+      "totalOrders": 166,
+      "lastOrders": 8
+    },
+    "600522744": {
+      "time": "2023/04/02",
+      "totalCups": 192,
+      "lastCups": 8,
+      "id": "600522744",
+      "name": "ARTEASG（广州市天河区东圃二马路店）",
+      "totalOrders": 75,
+      "lastOrders": 5
+    },
+    "600523648": {
+      "time": "2023/04/02",
+      "totalCups": 283,
+      "lastCups": 5,
+      "id": "600523648",
+      "name": "ARTEASG（广州市番禺区粤海广场天河城店）",
+      "totalOrders": 143,
+      "lastOrders": 3
+    },
+    "600523696": {
+      "time": "2023/04/02",
+      "totalCups": 245,
+      "lastCups": 17,
+      "id": "600523696",
+      "name": "ARTEASG（广州市天河区上社牌坊店）",
+      "totalOrders": 106,
+      "lastOrders": 8
+    },
+    "600523699": {
+      "time": "2023/04/02",
+      "totalCups": 223,
+      "lastCups": 0,
+      "id": "600523699",
+      "name": "ARTEASG（广州市荔湾区西华路店）",
+      "totalOrders": 94,
+      "lastOrders": null
+    },
+    "600524637": {
+      "time": "2023/04/02",
+      "totalCups": 178,
+      "lastCups": 2,
+      "id": "600524637",
+      "name": "ARTEASG（广州市番禺区南浦明珠商业楼店）",
+      "totalOrders": 42,
+      "lastOrders": 2
+    },
+    "600524647": {
+      "time": "2023/04/02",
+      "totalCups": 225,
+      "lastCups": 4,
+      "id": "600524647",
+      "name": "ARTEASG（广州市天河区正佳广场店）",
+      "totalOrders": 95,
+      "lastOrders": 4
+    },
+    "600524676": {
+      "time": "2023/04/02",
+      "totalCups": 226,
+      "lastCups": 0,
+      "id": "600524676",
+      "name": "ARTEASG（广州市天河区天河新天地广场店）",
+      "totalOrders": 116,
+      "lastOrders": null
+    },
+    "600525598": {
+      "time": "2023/04/02",
+      "totalCups": 270,
+      "lastCups": 22,
+      "id": "600525598",
+      "name": "ARTEASG（广州市海珠区东晓南地铁站店）",
+      "totalOrders": 96,
+      "lastOrders": 14
+    },
+    "600525678": {
+      "time": "2023/04/02",
+      "totalCups": 55,
+      "lastCups": 0,
+      "id": "600525678",
+      "name": "ARTEASG（广州市黄埔区云升科学园店）",
+      "totalOrders": 10,
+      "lastOrders": null
+    },
+    "600526537": {
+      "time": "2023/04/02",
+      "totalCups": 319,
+      "lastCups": 3,
+      "id": "600526537",
+      "name": "ARTEASG（广州市番禺区万达广场店）",
+      "totalOrders": 170,
+      "lastOrders": 2
+    },
+    "600526578": {
+      "time": "2023/04/02",
+      "totalCups": 315,
+      "lastCups": 69,
+      "id": "600526578",
+      "name": "ARTEASG（广州市荔湾区壹号文化广场店）",
+      "totalOrders": 137,
+      "lastOrders": 45
+    },
+    "600526611": {
+      "time": "2023/04/02",
+      "totalCups": 344,
+      "lastCups": 5,
+      "id": "600526611",
+      "name": "ARTEASG（广州市天河区时尚天河商业城店）",
+      "totalOrders": 176,
+      "lastOrders": 4
+    },
+    "600526660": {
+      "time": "2023/04/02",
+      "totalCups": 167,
+      "lastCups": 6,
+      "id": "600526660",
+      "name": "ARTEASG（广州天河区五山综合大楼店）",
+      "totalOrders": 76,
+      "lastOrders": 3
+    },
+    "600529806": {
+      "time": "2023/04/02",
+      "totalCups": 429,
+      "lastCups": 23,
+      "id": "600529806",
+      "name": "ARTEASG（广州市海珠区赤岗街道艺苑南路店）",
+      "totalOrders": 208,
+      "lastOrders": 13
+    },
+    "600529807": {
+      "time": "2023/04/02",
+      "totalCups": 287,
+      "lastCups": 30,
+      "id": "600529807",
+      "name": "ARTEASG（广州市天河区花城汇南区店）",
+      "totalOrders": 148,
+      "lastOrders": 20
+    },
+    "600529850": {
+      "time": "2023/04/02",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600529850",
+      "name": "ARTEASG（广州市天河区龙洞步行街店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600530129": {
+      "time": "2023/04/02",
+      "totalCups": 164,
+      "lastCups": 20,
+      "id": "600530129",
+      "name": "ARTEASG（广州市天河区石牌东店）",
+      "totalOrders": 40,
+      "lastOrders": 12
+    },
+    "600534328": {
+      "time": "2023/04/02",
+      "totalCups": 211,
+      "lastCups": 14,
+      "id": "600534328",
+      "name": "ARTEASG（广州市白云区设计之都时光汇店）",
+      "totalOrders": 65,
+      "lastOrders": 9
+    },
+    "600534576": {
+      "time": "2023/04/02",
+      "totalCups": 190,
+      "lastCups": 0,
+      "id": "600534576",
+      "name": "ARTEASG（广州市白云区嘉峪太阳城广场店）",
+      "totalOrders": 91,
+      "lastOrders": null
+    },
+    "600535382": {
+      "time": "2023/04/02",
+      "totalCups": 353,
+      "lastCups": 23,
+      "id": "600535382",
+      "name": "ARTEASG（广州市天河区棠东店）",
+      "totalOrders": 181,
+      "lastOrders": 14
+    },
+    "600535674": {
+      "time": "2023/04/02",
+      "totalCups": 189,
+      "lastCups": 4,
+      "id": "600535674",
+      "name": "ARTEASG（广州市白云区新市店）",
+      "totalOrders": 88,
+      "lastOrders": 2
+    },
+    "600537161": {
+      "time": "2023/04/02",
+      "totalCups": 269,
+      "lastCups": 33,
+      "id": "600537161",
+      "name": "ARTEASG（广州市番禺区广州大学城北亭村店）",
+      "totalOrders": 127,
+      "lastOrders": 23
+    },
+    "600537173": {
+      "time": "2023/04/02",
+      "totalCups": 217,
+      "lastCups": 5,
+      "id": "600537173",
+      "name": "ARTEASG（广州市海珠区中山大学店）",
+      "totalOrders": 93,
+      "lastOrders": 4
+    },
+    "600537199": {
+      "time": "2023/04/02",
+      "totalCups": 218,
+      "lastCups": 17,
+      "id": "600537199",
+      "name": "ARTEASG（广州市海珠区海珠同创汇南三街店）",
+      "totalOrders": 56,
+      "lastOrders": 11
+    },
+    "600537224": {
+      "time": "2023/04/02",
+      "totalCups": 319,
+      "lastCups": 11,
+      "id": "600537224",
+      "name": "ARTEASG（广州市荔湾区上下九步行街店）",
+      "totalOrders": 183,
+      "lastOrders": 7
+    },
+    "600539699": {
+      "time": "2023/04/02",
+      "totalCups": 158,
+      "lastCups": 5,
+      "id": "600539699",
+      "name": "ARTEASG（广州市越秀区西湖路店）",
+      "totalOrders": 82,
+      "lastOrders": 3
+    },
+    "600540081": {
+      "time": "2023/04/02",
+      "totalCups": 299,
+      "lastCups": 52,
+      "id": "600540081",
+      "name": "ARTEASG（广州市番禺区建华汇商业中心店）",
+      "totalOrders": 138,
+      "lastOrders": 40
+    },
+    "600541181": {
+      "time": "2023/04/02",
+      "totalCups": 263,
+      "lastCups": 5,
+      "id": "600541181",
+      "name": "ARTEASG（广州市海珠区万科里购物中心店）",
+      "totalOrders": 135,
+      "lastOrders": 4
+    },
+    "600542085": {
+      "time": "2023/04/02",
+      "totalCups": 173,
+      "lastCups": 14,
+      "id": "600542085",
+      "name": "ARTEASG（广州市白云区永泰店）",
+      "totalOrders": 48,
+      "lastOrders": 9
+    },
+    "600542137": {
+      "time": "2023/04/02",
+      "totalCups": 455,
+      "lastCups": 69,
+      "id": "600542137",
+      "name": "ARTEASG（广州市荔湾区西湾悦汇城店）",
+      "totalOrders": 226,
+      "lastOrders": 42
+    },
+    "600543025": {
+      "time": "2023/04/02",
+      "totalCups": 208,
+      "lastCups": 44,
+      "id": "600543025",
+      "name": "ARTEASG（广州市黄埔区大沙地东店）",
+      "totalOrders": 75,
+      "lastOrders": 27
+    },
+    "600543103": {
+      "time": "2023/04/02",
+      "totalCups": 224,
+      "lastCups": 1,
+      "id": "600543103",
+      "name": "ARTEASG（广州市越秀区中华广场店）",
+      "totalOrders": 101,
+      "lastOrders": 1
+    },
+    "600543109": {
+      "time": "2023/04/02",
+      "totalCups": 188,
+      "lastCups": 3,
+      "id": "600543109",
+      "name": "ARTEASG（广州市海珠区江南西路店）",
+      "totalOrders": 84,
+      "lastOrders": 2
+    },
+    "600543417": {
+      "time": "2023/04/02",
+      "totalCups": 260,
+      "lastCups": 35,
+      "id": "600543417",
+      "name": "ARTEASG（广州市越秀区区庄店）",
+      "totalOrders": 114,
+      "lastOrders": 23
+    },
+    "600544129": {
+      "time": "2023/04/02",
+      "totalCups": 416,
+      "lastCups": 5,
+      "id": "600544129",
+      "name": "ARTEASG（广州市海珠区富力海珠城店）",
+      "totalOrders": 243,
+      "lastOrders": 3
+    },
+    "600549020": {
+      "time": "2023/04/02",
+      "totalCups": 143,
+      "lastCups": 4,
+      "id": "600549020",
+      "name": "ARTEASG（广州市白云区金铂天地店）",
+      "totalOrders": 71,
+      "lastOrders": 3
+    },
+    "600583122": {
+      "time": "2023/04/02",
+      "totalCups": 242,
+      "lastCups": 2,
+      "id": "600583122",
+      "name": "ARTEASG（广州市越秀区保利时光里店）",
+      "totalOrders": 94,
+      "lastOrders": 2
+    },
+    "600630507": {
+      "time": "2023/04/02",
+      "totalCups": 168,
+      "lastCups": 2,
+      "id": "600630507",
+      "name": "ARTEASG（广州市荔湾区领展购物广场店）",
+      "totalOrders": 67,
+      "lastOrders": 2
+    },
+    "600635227": {
+      "time": "2023/04/02",
+      "totalCups": 219,
+      "lastCups": 1,
+      "id": "600635227",
+      "name": "ARTEASG（广州市越秀区五羊新城广场店）",
+      "totalOrders": 104,
+      "lastOrders": 1
+    },
+    "600684267": {
+      "time": "2023/04/02",
+      "totalCups": 217,
+      "lastCups": 10,
+      "id": "600684267",
+      "name": "ARTEASG（广州市天河区粤垦路店）",
+      "totalOrders": 87,
+      "lastOrders": 8
+    },
+    "600684297": {
+      "time": "2023/04/02",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600684297",
+      "name": "ARTEASG（广州市海珠区江南坊店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600690714": {
+      "time": "2023/04/02",
+      "totalCups": 358,
+      "lastCups": 35,
+      "id": "600690714",
+      "name": "ARTEASG（广州市荔湾区陈家祠店）",
+      "totalOrders": 168,
+      "lastOrders": 18
+    },
+    "600693069": {
+      "time": "2023/04/02",
+      "totalCups": 178,
+      "lastCups": 16,
+      "id": "600693069",
+      "name": "ARTEASG（广州市越秀区农讲所店）",
+      "totalOrders": 58,
+      "lastOrders": 14
+    },
+    "600695245": {
+      "time": "2023/04/02",
+      "totalCups": 183,
+      "lastCups": 1,
+      "id": "600695245",
+      "name": "ARTEASG（广州市白云区安华汇店）",
+      "totalOrders": 73,
+      "lastOrders": 1
+    },
+    "600703629": {
+      "time": "2023/04/02",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600703629",
+      "name": "ARTEASG（广州市海珠区乐峰广场店）",
+      "totalOrders": 0,
+      "lastOrders": null
+    },
+    "600703882": {
+      "time": "2023/04/02",
+      "totalCups": 214,
+      "lastCups": 1,
+      "id": "600703882",
+      "name": "ARTEASG（广州市天河区信达金茂广场店）",
+      "totalOrders": 81,
+      "lastOrders": 1
+    },
+    "600714044": {
+      "time": "2023/04/02",
+      "totalCups": 176,
+      "lastCups": 1,
+      "id": "600714044",
+      "name": "ARTEASG（广州市天河区天河凤凰汇店）",
+      "totalOrders": 84,
+      "lastOrders": 1
+    },
+    "600722551": {
+      "time": "2023/04/02",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600722551",
+      "name": "ARTEASG（广州市越秀区仰忠汇店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    },
+    "600757118": {
+      "time": "2023/04/02",
+      "totalCups": 326,
+      "lastCups": 0,
+      "id": "600757118",
+      "name": "ARTEASG（广州市天河区美林天地店）",
+      "totalOrders": 168,
+      "lastOrders": null
+    },
+    "600906223": {
+      "time": "2023/04/02",
+      "totalCups": 0,
+      "lastCups": 0,
+      "id": "600906223",
+      "name": "ARTEASG（广州市越秀区北京路店）",
+      "totalOrders": 0,
+      "lastOrders": 0
+    }
+  }
+]
