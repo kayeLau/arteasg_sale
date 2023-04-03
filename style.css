@@ -58,9 +58,6 @@ body{
     border-radius: 15px;
     background-color: #fff;
 }
-#shop-title{
-    padding-bottom: 10px;
-}
 .detail-data{
     font-weight: 600;
     display: flex;
