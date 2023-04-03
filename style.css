@@ -40,7 +40,7 @@ body{
 .sreach-input{
     padding-bottom: 5px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 .right{
     padding-top: 10px;
@@ -63,4 +63,18 @@ body{
     display: flex;
     padding: 15px;
     gap:20px
+}
+.first-title{
+    margin-left: 15px;
+    color: rgb(16, 110, 190);
+    position: relative;
+}
+.first-title::before{
+    content: '';
+    position: absolute;
+    left: -10px;
+    width: 6px;
+    height: 100%;
+    border-radius: 10px;
+    background-color: rgb(16, 110, 190);
 }

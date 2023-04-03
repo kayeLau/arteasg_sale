@@ -197,7 +197,7 @@ function setShopList(data) {
     const li = document.createElement("li");
     const key = document.createElement('span')
     const value = document.createElement('span')
-    key.textContent = item.name.replace('ARTEASG', '');
+    key.textContent = item.name ? item.name.replace('ARTEASG', '') : '';
     value.textContent = item.totalCups;
     li.dataset.shopid = item.id
     li.dataset.shopName = item.name
