@@ -133,7 +133,7 @@ function getFullOptions2(data){
   let saleList = dataMap[dateSaleChartFilterList[0]].data
   document.querySelector('#avg-day-cups').innerHTML = (saleList.reduce((prev,curr) => {
     return prev + curr
-  }) / saleList.length).toFixed(2)
+  }) / saleList.length).toFixed(2) + '杯'
   return {
     tooltip: {
       trigger: 'axis',
