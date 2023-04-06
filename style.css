@@ -18,14 +18,18 @@ body{
     height: 100%;
 }
 #shop-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
     list-style: none;
     height: 100%;
     overflow-y: scroll;
 }
 #shop-list > li{
+    width: 100%;
     display: flex;
-    justify-content: space-between;
-    padding: 10px 3px;
+    padding: 10px 0px;
     list-style: none;
     border-bottom: 1px solid #D8D8D8;
     display: flex;
@@ -77,4 +81,9 @@ body{
     height: 100%;
     border-radius: 10px;
     background-color: rgb(16, 110, 190);
+}
+.empty-card{
+    height: 100%;
+    line-height: 100vh;
+    text-align: center;
 }

@@ -6,6 +6,8 @@ let dateSaleChartFilterList = ['600535382']
 let shopCups = document.querySelector('#shop-cups')
 let shopOrders = document.querySelector('#shop-orders')
 let avgOrder = document.querySelector('#avg-order')
+let cards = document.querySelectorAll('.card')
+let emptyCard = document.querySelector('.empty-card')
 let timeDatas = []
 let dateDatas = []
 let lastTarget = null
@@ -18,6 +20,7 @@ setEventLister()
 
 async function init(datekey) {
   await getData(datekey)
+  clearCardsData(timeDatas)
   setShopList(timeDatas)
   refreshData()
 }
@@ -29,6 +32,7 @@ async function getData(datekey = '0401') {
     timeDatas = res
   }).catch(err => {
     console.error(err)
+    timeDatas = []
   })
   await fetch(`./data/广州ARTEASG各分店销售情况日度.json`).then(res => {
     return res.json()
@@ -36,6 +40,7 @@ async function getData(datekey = '0401') {
     dateDatas = res
   }).catch(err => {
     console.error(err)
+    dateDatas = []
   })
 }
 
@@ -56,6 +61,15 @@ function refreshData(id = currentShopId, name = currentShopName) {
   let data = filterData(id)
   setTimeSaleChartOptions(data)
   setDateSaleChartOptions(dateDatas)
+}
+
+function clearCardsData(data){
+  let flag = data.length ? 'block' : 'none'
+  let anti_flag = data.length ? 'none' : 'block'
+  emptyCard.style.display = anti_flag
+  cards.forEach(item => {
+    item.style.display = flag
+  })
 }
 
 function setTimeSaleChartOptions(data){
@@ -191,7 +205,7 @@ function setShopList(data) {
   let shopList = getShopData(data)
   shopList.sort((a, b) => b.totalCups - a.totalCups)
   let shopListDom = document.querySelector('#shop-list')
-  shopListDom.innerHTML = ''
+  shopListDom.innerHTML = shopList.length ? '' : '暂无数据'
   const fragment = new DocumentFragment();
   for (let item of shopList) {
     const li = document.createElement("li");
@@ -199,6 +213,7 @@ function setShopList(data) {
     const value = document.createElement('span')
     key.textContent = item.name ? item.name.replace('ARTEASG', '') : '';
     value.textContent = item.totalCups;
+    value.style.padding = '0 10px'
     li.dataset.shopid = item.id
     li.dataset.shopName = item.name
     li.dataset.shopCups = item.totalCups
